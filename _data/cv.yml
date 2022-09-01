@@ -59,6 +59,29 @@
       institution: Swisscom IT-Services, Bern, Switzerland
       year: Feb 2002 - Jul 2002
 
+- title: Professional memberships and refereeing
+  type: time_table
+  contents:
+    - title: Referee for Journal of Mathematical Analysis and Applications
+      year: since 2022
+    - title: Member of the American Mathematical Society
+      year: since 2021
+    - title: Reviewer for MathSciNet (Mathematical Reviews)
+      year: since 2017
+    - title: Reviewer for zbMATH
+      year: since 2014
+    - title: Member of the Swiss Mathematical Society
+      year: since 2014
+      
+- title: Outreach and other activities
+  type: time_table
+  contents:
+    - title: MSc Thesis Co-Advisor for Andresen, Silke Berit (Low-dimensional Boundaries of CAT(0) Spaces)
+      institution: University of Zurich, Zurich, Switzerland
+      year: 2018
+
+
+      
 # - title: Open Source Projects
 #   type: time_table
 #   contents:
