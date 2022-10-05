@@ -11,8 +11,8 @@ profile:
   address: >
     <p>HIT K, D-PHYS</p>
     <p>ETH Zurich</p>
-	<p>Hönggerberg campus</p>
-	<p>8093 Zurich, Switzerland</p>
+    <p>Hönggerberg campus</p>
+    <p>8093 Zurich, Switzerland</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
