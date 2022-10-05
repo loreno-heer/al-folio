@@ -70,29 +70,22 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: loreno-heer # your GitHub user name
 gitlab_username: loreno-heer # your GitLab user name
 twitter_username: loreno_heer # your Twitter handle
-linkedin_username: # your LinkedIn user name
-<<<<<<< HEAD
 scholar_userid: YM0FXVcAAAAJ # your Google Scholar ID
 orcid_id: 0000-0001-7424-8912 # your ORCID ID
 medium_username: loreno.heer # your Medium username
-=======
+keybase_username: lorenoheer # your keybase user name
+stackoverflow_id: 3787836 #your stackoverflow id
+
+linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
->>>>>>> upstream/master
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
-keybase_username: lorenoheer # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
-<<<<<<< HEAD
-stackoverflow_id: 3787836 #your stackoverflow id
-=======
-stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: # your spotify id
@@ -101,7 +94,6 @@ unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
->>>>>>> upstream/master
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
