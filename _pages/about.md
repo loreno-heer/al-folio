@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://itp.phys.ethz.ch/'>ETH Zurich</a>. ITP, D-PHYS, loreno dot heer at gmail dot com.
+subtitle: Dr. sc. nat., PhD</br> <a href='https://itp.phys.ethz.ch/'>ETH Zurich</a>. ITP, D-PHYS,</br> loreno dot heer at gmail dot com.
 
 profile:
   align: right
