@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HS2016 MAT101
-description: Programming: Python
+description: Programming Python
 img: teaching/hs16/mat101/example.jpg
 importance: 1
 category: work
