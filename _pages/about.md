@@ -40,15 +40,15 @@ with a positive cosmological constant and in particular the study of gravitation
 
 # Teaching
 ## Exercise Classes
-- UZH HS2020 MAT101: (Python) Programming, [Donkey Kong Project](teaching/hs20/mat101/dk)
+- UZH HS2020 MAT101: (Python) Programming, [Donkey Kong Project](courses/HS2020MAT101)
 - UZH FS2020 MAT184: Analysis für die Chemie
-- UZH HS2019 MAT101: (Python) Programming, [Tetris Project](teaching/hs19/mat101/tetris)
+- UZH HS2019 MAT101: (Python) Programming, [Tetris Project](courses/HS2019MAT101)
 - UZH FS2019 MAT184: Analysis für die Chemie
-- UZH HS2018 MAT101: (Python) Programming, [Flappy Bird Project](teaching/hs18/mat101/flappy)
+- UZH HS2018 MAT101: (Python) Programming, [Flappy Bird Project](courses/HS2018MAT101)
 - UZH FS2018 MAT823: Introduction to Computability and Complexity Theory
-- UZH HS2017 MAT101: (Python) Programming, [Bitcoin Project](teaching/hs17/mat101/bitcoin)
+- UZH HS2017 MAT101: (Python) Programming, [Bitcoin Project](courses/HS2017MAT101)
 - UZH FS2017 MAT112: Lineare Algebra II
-- UZH HS2016 MAT101: (Python) Programming, [Steganography Project](teaching/hs16/mat101/stegano)
+- UZH HS2016 MAT101: (Python) Programming, [Steganography Project](courses/HS2016MAT101)
 - UZH FS2016 MAT153: Zahlentheorie
 - UZH FS2016 MAT151: Grundbegriffe der Mathematik
 
