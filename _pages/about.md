@@ -20,10 +20,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-WORK IN PROGRESS. V.2.0 WEBSITE.
-
-<!--  Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
-
 Research Interests: Analysis in metric spaces, in particular quasiconformal, quasi-symmetric and quasi-Möbius geometry.
 (Gromov-)hyperbolic geometry and geometric group theory. Furthermore geometric analysis in general and low-dimensional topology. 
 Besides pure mathematics I am interested in mathematical physics, in particular the geometry of space-time and string theory.
