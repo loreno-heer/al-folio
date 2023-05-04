@@ -15,7 +15,7 @@ category: work
     </div>
 </div>
 <div class="caption">
-    Hiding data in images.
+    Making a graph of bitcoin transaction nodes.
 </div>
 
 
