@@ -33,3 +33,6 @@ Some other code samples and exercises can be found on the lecture website here:
 [https://www.math.uzh.ch/index.php?id=ve_vo_det&key1=0&key2=3927&semId=41](https://www.math.uzh.ch/index.php?id=ve_vo_det&key1=0&key2=3927&semId=41)
 
 
+## Recordings of Exercise Classes
+
+The recordings have been removed for the moment until I find some time to edit them.
