@@ -71,7 +71,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-
 github_username: loreno-heer # your GitHub user name
 gitlab_username: loreno-heer # your GitLab user name
 twitter_username: loreno_heer # your Twitter handle
@@ -104,7 +103,6 @@ instagram_id: # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
-
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -179,9 +177,16 @@ collections:
   courses:
     output: true
     permalink: /courses/:path/
+    
+announcements:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
-news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 5 # leave blank to include all the news in the `_news` folder
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
