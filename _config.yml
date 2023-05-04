@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🧮  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://loreno-heer.github.io # the base hostname & protocol for your site
 baseurl: /al-folio/ # the subpath of your site, e.g. /blog/
@@ -78,22 +78,22 @@ twitter_username: loreno_heer # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: loreno-heer-8023585# your LinkedIn user name
 telegram_username: # your Telegram user name
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 scholar_userid: YM0FXVcAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
+whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0001-7424-8912 # your ORCID ID
 medium_username: loreno.heer # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
+scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: lorenoheer # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: # your DBLP profile url
-
 stackoverflow_id: 3787836 #your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
@@ -116,7 +116,6 @@ contact_note: >
 google_analytics: G-K9EBNZ3VFP # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics: ECuYcBQ7UVr # panelbear analytics site ID (format: XXXXXXXXX)
 
-
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  E93D41C35E2954F7AB01C9561F9649A0 # out your bing-site-verification ID (Bing Webmaster)
 
@@ -133,6 +132,7 @@ permalink: /blog/:year/:title/
 pagination:
   enabled: true
 
+<<<<<<< HEAD
 related_blog_posts:
   enabled: true
   max_related: 5
@@ -141,10 +141,10 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
-  category: Comments             # name of the category under which discussions will be created
-  category_id: DIC_kwDOA5PmLc4CTBt6
+  repo: loreno-heer/al-folio      # <your-github-user-name>/<your-github-repo-name>
+  repo_id: R_kgDOH4Qjhw
+  category: Comments              # name of the category under which discussions will be created
+  category_id: DIC_kwDOH4Qjh84CWQgr
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode
   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
@@ -177,6 +177,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  courses:
+    output: true
+    permalink: /courses/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
@@ -356,6 +359,8 @@ enable_darkmode:            true   # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
+                                   # multiple categories
+enable_course_categories:  true    # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
