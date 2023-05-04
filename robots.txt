@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://loreno-heer.github.io//sitemap.xml
+Sitemap: https://loreno-heer.github.io/sitemap.xml
