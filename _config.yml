@@ -138,7 +138,7 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: loreno-heer/loreno-github.io      # <your-github-user-name>/<your-github-repo-name>
+  repo: loreno-heer/loreno-heer.github.io      # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOH4Qjhw
   category: Comments              # name of the category under which discussions will be created
   category_id: DIC_kwDOH4Qjh84CWQgr
