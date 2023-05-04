@@ -14,6 +14,8 @@ category: work
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Hiding data in images.
 </div>
 
+
+<a href="/teaching/hs16/mat101/project.pdf">Project Description</a>
