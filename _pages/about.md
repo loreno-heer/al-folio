@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://itp.phys.ethz.ch/'>ETH Zurich</a>. ITP, D-PHYS, loreno dot heer at gmail dot com.
+subtitle: Postdoc, <a href='https://itp.phys.ethz.ch/'>ETH Zurich</a>. ITP, D-PHYS, loreno dot heer at gmail dot com.
 
 profile:
   align: right
@@ -19,7 +19,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Dr. sc. nat., PhD</br></br>
+Dr. sc. nat., PhD
+
 Research Interests: Analysis in metric spaces, in particular quasiconformal, quasi-symmetric and quasi-Möbius geometry.
 (Gromov-)hyperbolic geometry and geometric group theory. Furthermore geometric analysis in general and low-dimensional topology. 
 Besides pure mathematics I am interested in mathematical physics, in particular the geometry of space-time and string theory.
