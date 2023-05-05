@@ -59,6 +59,26 @@
       institution: Swisscom IT-Services, Bern, Switzerland
       year: Feb 2002 - Jul 2002
 
+- title: Workshops and Conferences
+  type: time_table
+  contents:
+    - title: Marc Burger's Prime, ETHZ.
+      year: 27 June to 1 July 2022
+    - title: Teichmüller Theory, University of Fribourg, Swizerland
+      year: Fall 2021
+    - title: Geometric Analysis Seminar / Oberseminar Geometrie, University of Fribourg. Talk given: Möbius maps and the boundary at infinity of metric spaces
+      year: October 2019
+    - title: going the MATH way (goMATH 2019), Symposium, Zurich, Swizerland
+      year: 12 to 14 March 2019
+    - title: Groups, geometries, and spaces in honour of Alessandra Iozzi, ETH Zurich, Switzerland
+      year: 22 to 25 January 2019
+    - title: Young Geometric Group Theory VII, Les Diablerets, Switzerland
+      year: 12 to 16 March 2018
+    - title: 23rd Rolf Nevanlinna Colloquium, ETH Zurich, Switzerland
+      year: 12 to 16 June 2017
+    - title: Informal Seminar on Topics of Möbius Geometry. Talk given.
+      year: September 2016
+
 - title: Professional memberships and refereeing
   type: time_table
   contents:
