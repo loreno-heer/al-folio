@@ -242,3 +242,282 @@ gantt
   ]
 }
 {% endvegalite %}
+
+{% raw %}
+```
+{% vegalite  %}
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "repeat": {
+    "row": ["Horsepower", "Acceleration", "Miles_per_Gallon"],
+    "column": ["Miles_per_Gallon", "Acceleration", "Horsepower"]
+  },
+  "spec": {
+    "data": {"url": "data/cars.json"},
+    "mark": "point",
+    "params": [
+      {
+        "name": "brush",
+        "select": {
+          "type": "interval",
+          "resolve": "union",
+          "on": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
+          "translate": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
+          "zoom": "wheel![event.shiftKey]"
+        }
+      },
+      {
+        "name": "grid",
+        "select": {
+          "type": "interval",
+          "resolve": "global",
+          "translate": "[mousedown[!event.shiftKey], window:mouseup] > window:mousemove!",
+          "zoom": "wheel![!event.shiftKey]"
+        },
+        "bind": "scales"
+      }
+    ],
+    "encoding": {
+      "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+      "y": {
+        "field": {"repeat": "row"},
+        "type": "quantitative",
+        "axis": {"minExtent": 30}
+      },
+      "color": {
+        "condition": {
+          "param": "brush",
+          "field": "Origin",
+          "type": "nominal"
+        },
+        "value": "grey"
+      }
+    }
+  }
+}
+{% endvegalite %}
+```
+{% endraw %}
+
+{% vegalite  %}
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "repeat": {
+    "row": ["Horsepower", "Acceleration", "Miles_per_Gallon"],
+    "column": ["Miles_per_Gallon", "Acceleration", "Horsepower"]
+  },
+  "spec": {
+    "data": {"url": "data/cars.json"},
+    "mark": "point",
+    "params": [
+      {
+        "name": "brush",
+        "select": {
+          "type": "interval",
+          "resolve": "union",
+          "on": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
+          "translate": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
+          "zoom": "wheel![event.shiftKey]"
+        }
+      },
+      {
+        "name": "grid",
+        "select": {
+          "type": "interval",
+          "resolve": "global",
+          "translate": "[mousedown[!event.shiftKey], window:mouseup] > window:mousemove!",
+          "zoom": "wheel![!event.shiftKey]"
+        },
+        "bind": "scales"
+      }
+    ],
+    "encoding": {
+      "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+      "y": {
+        "field": {"repeat": "row"},
+        "type": "quantitative",
+        "axis": {"minExtent": 30}
+      },
+      "color": {
+        "condition": {
+          "param": "brush",
+          "field": "Origin",
+          "type": "nominal"
+        },
+        "value": "grey"
+      }
+    }
+  }
+}
+{% endvegalite %}
+
+
+
+{% raw %}
+```
+{% vegalite  %}
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A dashboard with cross-highlighting.",
+  "data": {"url": "data/movies.json"},
+  "vconcat": [
+    {
+      "layer": [{
+        "mark": "rect",
+        "encoding": {
+          "x": {
+            "bin": {"maxbins": 10},
+            "field": "IMDB Rating"
+          },
+          "y": {
+            "bin": {"maxbins": 10},
+            "field": "Rotten Tomatoes Rating"
+          },
+          "color": {
+            "aggregate": "count",
+            "legend": {
+              "title": "All Movies Count",
+              "direction": "horizontal",
+              "gradientLength": 120
+            }
+          }
+        }
+      }, {
+        "transform": [{
+          "filter": {"param": "pts"}
+        }],
+        "mark": "point",
+        "encoding": {
+          "x": {
+            "bin": {"maxbins": 10},
+            "field": "IMDB Rating"
+          },
+          "y": {
+            "bin": {"maxbins": 10},
+            "field": "Rotten Tomatoes Rating"
+          },
+          "size": {
+            "aggregate": "count",
+            "legend": {"title": "Selected Category Count"}
+          },
+          "color": {
+            "value": "#666"
+          }
+        }
+      }]
+    }, {
+      "width": 330,
+      "height": 120,
+      "mark": "bar",
+      "params": [{
+        "name": "pts",
+        "select": {"type": "point", "encodings": ["x"]}
+      }],
+      "encoding": {
+        "x": {"field": "Major Genre", "axis": {"labelAngle": -40}},
+        "y": {"aggregate": "count"},
+        "color": {
+          "condition": {
+            "param": "pts",
+            "value": "steelblue"
+          },
+          "value": "grey"
+        }
+      }
+    }
+  ],
+  "resolve": {
+    "legend": {
+      "color": "independent",
+      "size": "independent"
+    }
+  }
+}
+
+{% endvegalite %}
+```
+{% endraw %}
+
+{% vegalite  %}
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A dashboard with cross-highlighting.",
+  "data": {"url": "data/movies.json"},
+  "vconcat": [
+    {
+      "layer": [{
+        "mark": "rect",
+        "encoding": {
+          "x": {
+            "bin": {"maxbins": 10},
+            "field": "IMDB Rating"
+          },
+          "y": {
+            "bin": {"maxbins": 10},
+            "field": "Rotten Tomatoes Rating"
+          },
+          "color": {
+            "aggregate": "count",
+            "legend": {
+              "title": "All Movies Count",
+              "direction": "horizontal",
+              "gradientLength": 120
+            }
+          }
+        }
+      }, {
+        "transform": [{
+          "filter": {"param": "pts"}
+        }],
+        "mark": "point",
+        "encoding": {
+          "x": {
+            "bin": {"maxbins": 10},
+            "field": "IMDB Rating"
+          },
+          "y": {
+            "bin": {"maxbins": 10},
+            "field": "Rotten Tomatoes Rating"
+          },
+          "size": {
+            "aggregate": "count",
+            "legend": {"title": "Selected Category Count"}
+          },
+          "color": {
+            "value": "#666"
+          }
+        }
+      }]
+    }, {
+      "width": 330,
+      "height": 120,
+      "mark": "bar",
+      "params": [{
+        "name": "pts",
+        "select": {"type": "point", "encodings": ["x"]}
+      }],
+      "encoding": {
+        "x": {"field": "Major Genre", "axis": {"labelAngle": -40}},
+        "y": {"aggregate": "count"},
+        "color": {
+          "condition": {
+            "param": "pts",
+            "value": "steelblue"
+          },
+          "value": "grey"
+        }
+      }
+    }
+  ],
+  "resolve": {
+    "legend": {
+      "color": "independent",
+      "size": "independent"
+    }
+  }
+}
+
+{% endvegalite %}
+
+
+
