@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Professional website of Dr. sc. nat. Loreno Heer, PhD Mathematician # the website title (if blank, full name will be used instead)
+title: # Professional website of Dr. sc. nat. Loreno Heer, PhD Mathematician # the website title (if blank, full name will be used instead)
 first_name: Loreno
 middle_name: 
 last_name: Heer
