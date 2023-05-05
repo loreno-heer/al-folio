@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python in Markdown for live code
-date: 2023-05-05 11:12:00-0400
+date: 2023-05-05 11:12:00+0200
 description: Markdown offers plenty of options to add graphics and dynamic content
 tags: math, physics, graphics
 categories: drafts, publications
