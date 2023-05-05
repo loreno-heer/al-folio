@@ -16,8 +16,6 @@ Gantt chart using mermaid:
 gantt
     dateFormat  YYYY-MM-DD
     title       Adding GANTT diagram functionality to mermaid
-    excludes    weekends
-    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
 
     section A section
     Completed task            :done,    des1, 2014-01-06,2014-01-08
@@ -51,8 +49,6 @@ gantt
 gantt
     dateFormat  YYYY-MM-DD
     title       Adding GANTT diagram functionality to mermaid
-    excludes    weekends
-    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
 
     section A section
     Completed task            :done,    des1, 2014-01-06,2014-01-08
