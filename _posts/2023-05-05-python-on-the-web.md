@@ -8,6 +8,7 @@ categories: drafts, publications
 related_posts: false
 ---
 
+Examples taken from respective websites.
 Gantt chart using mermaid:
 
 {% raw %}
@@ -518,6 +519,8 @@ gantt
 }
 
 {% endvegalite %}
+
+Using python using pyscript. Example from PyScript website.
 
 ```html
 <html>
