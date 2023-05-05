@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/lorenoheer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://loreno-heer.github.io
+  * I am lorenoheer (https://keybase.io/lorenoheer) on keybase.
+  * I have a public key with fingerprint 7069 E991 8FC6 A8E1 D436  9955 1121 66A1 5288 3F9C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e6b6bc520dcb1922a2f78bbd454d34945d6240609ea05cedb0c22eaa29587b450a",
+      "fingerprint": "7069e9918fc6a8e1d4369955112166a152883f9c",
+      "host": "keybase.io",
+      "key_id": "112166a152883f9c",
+      "kid": "0101e6b6bc520dcb1922a2f78bbd454d34945d6240609ea05cedb0c22eaa29587b450a",
+      "uid": "f492b862c4f1bb9c51f06d83a728a519",
+      "username": "lorenoheer"
+    },
+    "service": {
+      "hostname": "loreno-heer.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1661444043,
+  "expire_in": 157680000,
+  "prev": "6d08639bb6354e65bbc65bb5b5d154f7ab00e6c421e0155ab81d0ba69035fa1f",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkltMFFcYx5f7JbRrBSkoUBlujV1gZnZmdmYtl1YL2FaMFLAB6mbOzJndKTCz
+7C6LiPcGqUmtIrWIsV0EGi7t0oqtNTyIpQhJCVitAobIpYkRGmglsQQR287Q+tCk
+jz0P5+R8+f3/3yXfyWe8NP4ez0UL53PeTzvnMTgLNJyf66cqBMh8JWKsQorh6gNL
+eGh3mIpFHjEiKIZikAIU4Egc5TmAMTjO4oKBBoAnSILXEwxB8hROoBTKQBYlOcgD
+lMNxyLI4Q9IGQJAoi+gQQZTM0Ga1iZJDsTWgFAMZBqMFjmJpiPGEnmIYksQwHKMo
+FiNxmtYLDKcILbJdVSjFAdYOk0RZiSkf02p5/8H/z3WXr9oJBIMDmsI5QsAAYDgS
+E1CKp/WsAadZEmNU0A5tElsKFbpEtkFJtkBoQ/brECXuFDmojlbt5V9MogolmUWH
+pRz83ZrVJjtkTi5REIvDYbUbVQtHpVXVVEBg+sfNBESJV0aqKJzQZhdlCTFiCsk5
+RNVeGQpGEARK6HUI3GMVbdAkqgRpoGhUOWoeyDkVT4pHaUrPAEDpSQJSJACcepGA
+5DGSEAwsQFFIcQSOQRQjSRbQGI8ClmJQPSmwmICoDZZJMmJUUjlYs2JpF80S6yi3
+QWR/4DFPvbfGw18TGRrtbRVna0/0t03fohrynq6hj6e6g5rAgDVPI8ET2j930d2O
+3vn0cW3rV4cy9myZGKvctsDwMeal6LoT6El3zybXae0d6flBW2S6wX0bD8kZ/nFg
+rWH+VFTw184rZzZ0vNsfmc5Rfh9+25yti/il66jvD3W+Q0ZhqT2k/UbR4+w5d+pS
+3JP1NQ2tH6x949H2369FUXdGo4baj+tSHiXaCv7YLIy/kJtRcmwyeNHju0sRvkd2
+YMiarKZRq6a6Nnfy2ZriXfV+rYOypTPu8tiB+ClT3TAZ+1Cu63VtvFGQsPdh6nCB
+62B66czc9d+Mb61bfyC6j9zaP/H93u3DW2oCXsls1gLtJp/Ges2rmQuROrulLf5a
+C7oQsXE29F7W8juOkc4rwCspLM8d/mXW7fvV7y3Xe7+Y6hqtKB5NKcgm13VeXnTd
+lLuuflTWP1X8ycApic/NDGhw61vOP05r20btQ2TDIDj8YKWq51z+orU0JqEo0xzW
+4dbevD8zElRpTf60KTDgYuwT/+Oa3V6VL7+Uk/HxzvKr1pmclumKVOli8oZfGxvN
+Q+HJKXfTPQL3lfl4+hROBnfXB33BjmW+/Xr6mW/mwjYn3o3J2rqj9bO0B1G5tzzz
+uehC9rXeMFPfvSM91UVNn/deSo0/2BLUcf1Cwkizs//N+d078+T503mLdYdj4qYG
++hJKV6RDZwtXfp4+G57fFSqNL+ucsXHdMSt8bT0fNh1yYcD2Fw==
+=zB9w
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lorenoheer
+
+==================================================================
