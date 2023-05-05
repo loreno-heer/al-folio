@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Professional website of Dr. sc. nat. Loreno Heer, PhD Mathematician
 permalink: /
 subtitle: Postdoc, <a href='https://itp.phys.ethz.ch/'>ETH Zurich</a>. ITP, D-PHYS, loreno dot heer at gmail dot com.
 
