@@ -84,8 +84,8 @@ orcid_id: 0000-0001-7424-8912 # your ORCID ID
 medium_username: loreno.heer # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-osf_id: # your OSF ID
-research_gate_profile: https://www.researchgate.net/profile/Loreno_Heer# your profile on ResearchGate
+osf_id: nvp4z # your OSF ID
+research_gate_profile: https://www.researchgate.net/profile/Loreno_Heer # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
@@ -123,7 +123,7 @@ bing_site_verification:  E93D41C35E2954F7AB01C9561F9649A0 # out your bing-site-v
 
 blog_name: blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: random posts about math, physics and computer stuff
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -264,7 +264,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['formatting', 'images', 'links', 'math', 'physics', 'code'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
