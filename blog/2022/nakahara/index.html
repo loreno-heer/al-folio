@@ -1,0 +1,1082 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <!-- Head -->
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    <!-- Metadata, OpenGraph and Schema.org -->
+    
+    <!-- Website verification -->
+    <meta name="google-site-verification" content="JunhopbFql0j8-0l_Tw5SeEQtW87O_4lwFlznUFylEg">
+<meta name="msvalidate.01" content="E93D41C35E2954F7AB01C9561F9649A0">
+<!-- Avoid warning on Google Chrome
+        Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.
+        see https://stackoverflow.com/a/75119417
+    -->
+    <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
+
+    <!-- Standard metadata -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara | Loreno  Heer</title>
+    <meta name="author" content="Loreno  Heer">
+    <meta name="description" content="Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara">
+    <meta name="keywords" content="Mathematics, Geometry, Loreno Heer, Heer, Hyperbolic, Analysis, quasisymmetric, geometric group theory, geometric analysis, ETH, Zurich, Bern, University of Zurich, ETH Zurich, Physics, Neuroscience, Deeplearning, Python, Programming, general relativity, de sitter, manifolds, riemannian geometry, nakahara">
+
+    <!-- OpenGraph -->
+    <meta property="og:site_name" content="Loreno  Heer">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Loreno  Heer | Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara">
+    <meta property="og:url" content="https://loreno-heer.github.io/blog/2022/nakahara/">
+    <meta property="og:description" content="Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara">
+    <meta property="og:image" content="/assets/img/og_preview.png">
+    <meta property="og:locale" content="en">
+
+    <!-- Twitter card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara">
+    <meta name="twitter:description" content="Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara">
+    <meta name="twitter:image" content="/assets/img/og_preview.png">
+    <meta name="twitter:site" content="@loreno_heer">
+    <meta name="twitter:creator" content="@loreno_heer">
+
+    <!-- Schema.org -->
+    <script type="application/ld+json">
+      {
+        "author":
+        {
+          "@type": "Person",
+          "name": "Loreno  Heer"
+        },
+        "url": "https://loreno-heer.github.io/blog/2022/nakahara/",
+        "@type": "WebSite",
+        "description": "Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara",
+        "headline": "Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara",
+        "sameAs": ["https://orcid.org/0000-0001-7424-8912", "https://scholar.google.com/citations?user=YM0FXVcAAAAJ", "https://www.semanticscholar.org/author/102658218", "https://www.researchgate.net/profile/https://www.researchgate.net/profile/Loreno_Heer# your profile on ResearchGate", "https://github.com/loreno-heer", "https://www.linkedin.com/in/loreno-heer-8023585# your LinkedIn user name", "https://twitter.com/loreno_heer", "https://medium.com/@loreno.heer", "https://keybase.io/lorenoheer", "https://gitlab.com/loreno-heer", "https://stackoverflow.com/users/3787836"],
+        "name": "Loreno  Heer",
+        "@context": "https://schema.org"
+      }
+    </script>
+
+
+    <!-- Bootstrap & MDB -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous">
+
+    <!-- Bootstrap Table -->
+    <link defer rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.21.3/dist/bootstrap-table.min.css">
+
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700%7CRoboto+Slab:100,300,400,500,700%7CMaterial+Icons">
+
+    <!-- Code Syntax Highlighting -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
+
+    
+
+    <!-- Styles -->
+    
+    <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%F0%9F%A7%AE&lt;/text&gt;&lt;/svg&gt;">
+    
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="canonical" href="https://loreno-heer.github.io/blog/2022/nakahara/">
+
+    <!-- Dark Mode -->
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
+
+    <script src="/assets/js/theme.js"></script>
+    <script src="/assets/js/dark_mode.js"></script>
+    
+
+  </head>
+
+  <!-- Body -->
+  <body class="fixed-top-nav ">
+
+    <!-- Header -->
+    <header>
+
+      <!-- Nav Bar -->
+      <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+        <div class="container">
+          <a class="navbar-brand title font-weight-lighter" href="/"><span class="font-weight-bold">Loreno </span>Heer</a>
+          <!-- Navbar Toggle -->
+          <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+
+          <div class="collapse navbar-collapse text-right" id="navbarNav">
+            <ul class="navbar-nav ml-auto flex-nowrap">
+
+              <!-- About -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/">about</a>
+              </li>
+              
+              <!-- Blog -->
+              <li class="nav-item active">
+                <a class="nav-link" href="/blog/">blog<span class="sr-only">(current)</span></a>
+              </li>
+
+              <!-- Other pages -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/publications/">publications</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/projects/">projects</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/repositories/">repositories</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/cv/">cv</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/teaching/">teaching</a>
+              </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">submenus</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/publications/">publications</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/projects/">projects</a>
+                </div>
+              </li>
+
+              <!-- Toogle theme mode -->
+              <li class="toggle-container">
+                <button id="light-toggle" title="Change theme">
+                  <i class="fas fa-moon"></i>
+                  <i class="fas fa-sun"></i>
+                </button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Scrolling Progress Bar -->
+      <progress id="progress" value="0">
+        <div class="progress-container">
+          <span class="progress-bar"></span>
+        </div>
+      </progress>
+    </header>
+
+
+    <!-- Content -->
+    <div class="container mt-5">
+      
+        <!-- _layouts/post.html -->
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara</h1>
+    <p class="post-meta">April 17, 2022</p>
+    <p class="post-tags">
+      <a href="/blog/2022"> <i class="fas fa-calendar fa-sm"></i> 2022 </a>
+        ·  
+        <a href="/blog/tag/math">
+          <i class="fas fa-hashtag fa-sm"></i> math,</a>  
+          <a href="/blog/tag/physics">
+          <i class="fas fa-hashtag fa-sm"></i> physics,</a>  
+          <a href="/blog/tag/errata">
+          <i class="fas fa-hashtag fa-sm"></i> errata</a>  
+          
+        ·  
+        <a href="/blog/category/drafts">
+          <i class="fas fa-tag fa-sm"></i> drafts,</a>  
+          <a href="/blog/category/publications">
+          <i class="fas fa-tag fa-sm"></i> publications</a>  
+          
+
+    </p>
+  </header>
+
+  <article class="post-content">
+    
+    <div id="markdown-content">
+      <p>There used to be an updated errata for the book Geometry, Topology and Physics (Second Edition) by Mikio Nakahara
+available on the internet. But the original author of the errata does not seem to be reachable anymore.
+I compiled a new LaTeX version. Feel free to email me with updates and corrections and I will add them to the new version.
+(Also keep in mind there is supposedly a new third edition coming out 2024).</p>
+
+<p>Here is the <a href="/notes/nakahara-errata.pdf">Pdf</a> and <a href="/notes/nakahara-errata.tex">LaTeX</a> (last updated: 17. April 2022).</p>
+
+<ul>
+  <li>page 6\Dag, <code class="language-plaintext highlighter-rouge">Lagrange equation is employed to replace the LHS'' should be</code>Lagrange equation is employed to replace the RHS’’</li>
+  <li>
+    <p>page 8, in the Lagrangian in example \(1.4\), \(\dot{\phi}^{2}\) should be \(\dot{\theta}^{2}\)</p>
+  </li>
+  <li>
+    <p>page 9, a bra vector should be defined as an element of \(\mathcal{H}^{*}\)</p>
+  </li>
+  <li>
+    <p>page 17, in (1.65) \(\varepsilon\) should be \(2 \varepsilon\)</p>
+  </li>
+  <li>
+    <p>page 21, in (1.92) there is a missing factor of \(\sqrt{m}\)</p>
+  </li>
+  <li>
+    <p>page 21, in (1.92) the factor \((x-y)\) should be squared only once</p>
+  </li>
+  <li>
+    <p>page 33, many missing factors of \(m\) in equations (1.143) - (1.151)</p>
+  </li>
+  <li>
+    <p>page \(38,(1.164)\) and equation beneath seem incorrect, see comments below</p>
+  </li>
+  <li>
+    <p>page 39, the Hamiltonian at the top of the page is missing a factor of \(\omega\)</p>
+  </li>
+  <li>
+    <p>page 39, in (1.168) \(c c^{\dagger}\) should be \(c^{\dagger} c\)</p>
+  </li>
+  <li>
+    <p>page 44, \(\mathrm{d} \theta\) should be \(\mathrm{d} \theta^{\prime}\) in (1.187); \(\mathrm{d} \theta_{1}\) should be \(\mathrm{d} \theta_{1}^{\prime}\) in equation for \(I^{2}\)</p>
+  </li>
+  <li>
+    <p>page 44, variable change from \(\theta_{k}, \theta_{k}^{\prime}\) to \(\eta_{k}, \eta_{k}^{*}\) seems incorrect, see comments below</p>
+  </li>
+  <li>
+    <p>page 45, in equation at top of page, \(\mathrm{d} \eta_{i}\) should be \(\mathrm{d} \eta_{1}\)</p>
+  </li>
+  <li>
+    <p>page 45, in (1.190) there should be no \(2^{n / 2}\) and exponent should be \(-{ }^{t} K M^{-1} K / 2\)</p>
+  </li>
+  <li>
+    <p>page 48, in second line of second equation for \(Z(\beta)\), missing factor \(\mathrm{e}^{-\theta^{*} \theta}\)</p>
+  </li>
+  <li>
+    <p>page 50, in equation for \(Z(\beta)\), first two products should run over \(n\), not \(k\)</p>
+  </li>
+  <li>
+    <p>page 53, in (1.220) the \(-\) in front of \(i \varepsilon\) should be \(+\)</p>
+  </li>
+  <li>
+    <p>page 53 in (1.224) the \(-\) in front of the integral and in front of \(i \varepsilon\) should be \(+\)</p>
+  </li>
+  <li>
+    <p>page 55, in (1.237) the \(x\) in the argument of the exponential should be \((x-y)\)</p>
+  </li>
+  <li>
+    <p>page 56, in (1.241d) the second \(\mathbf{E}\) should be \(\mathbf{B}\)</p>
+  </li>
+  <li>
+    <p>page 64, in (1.293) there should be no factor of i</p>
+  </li>
+  <li>
+    <p>page 65, the LHS of \((1.298)\) should be traced over</p>
+  </li>
+  <li>
+    <p>page 65, (1.298) should have only one Hodge star in the second term</p>
+  </li>
+  <li>
+    <p>page 65, in (1.300), (1.304) there should be no factor of \(\mathrm{i}\)</p>
+  </li>
+  <li>page 65, (1.301b) should have a \(+\) instead of a \(-\) for consistency with (10.117b)</li>
+</ul>
+
+<p>#Homotopy Groups</p>
+
+<ul>
+  <li>page 130*, in (4.9), should have \(1 / 2 \leq r \leq 1\)</li>
+  <li>page 130*, in example \(4.1\) the homotopy interpolates between \(\operatorname{id}_{Y}\) and \(f \circ g\)</li>
+  <li>page 152\Dag, (a) \(n &gt; 2\) should be \(n \geq 2\)</li>
+</ul>
+
+<p>#Manifolds</p>
+
+<ul>
+  <li>
+    <p>page 196, in (5.62) the \(\wedge\) on the RHS should all be \(\otimes\)</p>
+  </li>
+  <li>
+    <p>page 199, beneath (5.70), the sum should run from \(i=1\) to \(r+1\)</p>
+  </li>
+  <li>
+    <p>page 202* \((5.83)\) should read \(\mathrm{i}_{[X, Y]} \omega=\left[\mathcal{L}_{X}, \mathrm{i}_{Y}\right] \omega\)</p>
+  </li>
+  <li>
+    <p>page 203, in \((5.94)\) there should be a \(+\) after \(\partial / \partial p_{\mu}\)</p>
+  </li>
+  <li>
+    <p>page 204, in (5.96) \(f\) and \(g\) should be interchanged in the second term</p>
+  </li>
+  <li>
+    <p>page 213, in \((5.125)\), should have \(\phi(s)\) instead of \(\phi(t)\) on the LHS</p>
+  </li>
+  <li>
+    <p>page 216, beneath \((5.138)\), should have \(T_{g}^{*} G\)</p>
+  </li>
+  <li>
+    <p>page 217*, beneath \((5.130)\), should have \(-x^{t} \eta x\) instead of \(-X^{t} \eta X\)</p>
+  </li>
+  <li>
+    <p>page 217\Dag, last paragraph reference to 5.14 should be 5.141</p>
+  </li>
+</ul>
+
+<p>#De Rham Cohomology Groups</p>
+
+<ul>
+  <li>
+    <p>page 234, in corollary \(6.1\) the \(\left[c_{i}\right]\) need to be linearly independent, not just different</p>
+  </li>
+  <li>
+    <p>page 235, in \((6.27)\), should have \(\mathrm{d}_{r-1}\) instead of \(\mathrm{d}_{r}\) and \(\mathrm{d}_{r}\) instead of \(\mathrm{d}_{r+1}\)</p>
+  </li>
+  <li>
+    <p>page 230, in third paragraph, should have \(r=3\) instead of \(m=3\)</p>
+  </li>
+  <li>
+    <p>page 235, in theorem \(6.3\) we must have \(r \geq 1\)</p>
+  </li>
+  <li>
+    <p>page 237*, in section \(6.4 .1\) we must have that \(M\) is orientable</p>
+  </li>
+  <li>
+    <p>page 238, in \((6.40)\) the sum should run from \(r=0\)</p>
+  </li>
+  <li>
+    <p>page 239, in the first line of \((6.46)\) the sums should run from \(r=0\)</p>
+  </li>
+</ul>
+
+<p>#Riemannian Geometry</p>
+
+<ul>
+  <li>page 247, <code class="language-plaintext highlighter-rouge">LHS'' should be</code>RHS’’</li>
+  <li>
+    <p>page 250\Dag, equation (7.15) should be:
+[… = … = V^\mu(e_\mu[W^{\color{red} \nu}]e_\nu+W^\nu\nabla_{e_\mu}e_\nu) = …]</p>
+  </li>
+  <li>
+    <p>page 253, beneath \((7.29)\), should have \(Y^{\mu}\) in the second term on the \(\mathrm{RHS}\)</p>
+  </li>
+  <li>
+    <p>page 253, above \((7.30)\), should have \(V^{\kappa} \nabla_{\kappa} X=V^{\kappa} \nabla_{\kappa} Y=0\)</p>
+  </li>
+  <li>
+    <p>page 255, in \((7.42)\), should have \(\Gamma_{\mu \lambda}^{\eta}\) in second term of second line</p>
+  </li>
+  <li>
+    <p>page 264, in \((7.63)\), should have \(\sin ^{2} \theta\)</p>
+  </li>
+  <li>
+    <p>page 265, in \((7.86 \mathrm{~b})\), should have \(-y^{\prime 2}\) instead of \(+3 y^{\prime 2}\)</p>
+  </li>
+  <li>
+    <p>page 268*, in exercise \(7.11\), fourth term of last line, should have \(g_{\lambda \nu}\) instead of \(g_{\mu \nu}\)</p>
+  </li>
+  <li>
+    <p>page 269, in \((7.82)\), second equality, the first \(-\) should be a \(+\)</p>
+  </li>
+  <li>
+    <p>page 275, in proof of proposition \(7.1\), should have \(\bar{\nabla}_{X} Y, \nabla_{X} Y\) instead of \(\bar{\nabla}_{X}, \nabla_{X}\)</p>
+  </li>
+  <li>
+    <p>page 277, in \((7.115)\) should have a \(+\) instead of a \(-\) after \(R_{\kappa \lambda \mu \nu}\)</p>
+  </li>
+  <li>
+    <p>page 277, beneath \((7.115)\), should have \(C^{\kappa} _{\lambda \mu \nu}=\bar{C}^{\kappa} _{\lambda \mu \nu}\)</p>
+  </li>
+  <li>
+    <p>page 284, in \((7.144)\) there is a missing bracket on the second line</p>
+  </li>
+  <li>
+    <p>page 288, beneath \((7.162)\), should have \(R^{1}{}_{212}=1, R^{2}{}_{112}=-1\)</p>
+  </li>
+  <li>
+    <p>page 288, beneath second paragraph, should have \(R^{\theta}{}_{\phi \theta \phi}=\sin ^{2} \theta R^{1}{}_{212}=\sin ^{2} \theta\)</p>
+  </li>
+  <li>
+    <p>page 289, in \((7.167)\) the equation for \(R^{0}{}_{2}\) should have \(M\) instead of \(2 M\)</p>
+  </li>
+  <li>
+    <p>page 294, in \((7.188)\), fourth line, there should be no factor of \(g^{-1}\)</p>
+  </li>
+  <li>
+    <p>page 294, \((7.190)\) applies to a compact orientable manifold without boundary</p>
+  </li>
+  <li>
+    <p>page 295, in exercise \(7.23\) the projector \(P\) must be an orthogonal projector</p>
+  </li>
+  <li>
+    <p>page 296, in fifth paragraph, should have \(B^{r}(M) \cap \operatorname{Harm}^{r}(M)=\{0\}\) instead of \(\varnothing\)</p>
+  </li>
+  <li>
+    <p>page 298, in proof of (c) of proposition \(7.2\), should have \(\delta \Gamma^{\kappa}{}_{\kappa \mu}\) instead of \(\Gamma^{\kappa}{}_{\kappa \mu}\)</p>
+  </li>
+  <li>
+    <p>page 299, beneath first paragraph in third equality, should have \(\nabla_\nu \delta \Gamma^{\kappa}{}_{\kappa \mu}\)</p>
+  </li>
+  <li>
+    <p>page 299, second paragraph, second equation \(g^{\mu\nu}\delta\Gamma^\kappa\,_{\mu\nu}\sqrt{-g}\) should be \(g^{\mu\nu}\delta\Gamma^\kappa\,_{\nu\mu}\sqrt{-g}\)</p>
+  </li>
+  <li>
+    <p>page 301, in \((7.220)\), should have \(\Lambda_{\alpha}{ }^{\beta}\) instead of \(\Lambda_{\alpha}{ }^{\eta}\)</p>
+  </li>
+  <li>
+    <p>page 302,\(\left(7.229 \mathrm{a}^{\prime}\right)\) should have \(2 m\) instead of \(m\)</p>
+  </li>
+  <li>
+    <p>page 305, in exercise \(7.28\) we make use of symmetries (i) and (ii)</p>
+  </li>
+  <li>
+    <p>page 305, in \((7.238)\) the \(\mathrm{RHS}\) should have a conformal factor \(2 /\left(\partial^{\alpha} X^{\mu} \partial_{\alpha} X_{\mu}\right)\)</p>
+  </li>
+  <li>
+    <p>page 306*, in exercise \(7.29\) should have \(h_{\alpha \beta}\) instead of \(G_{\alpha \beta}\) for consistency with (7.243)</p>
+  </li>
+  <li>page 306, in \((7.242)\) the indices on the \(\phi\) fields in the second term should be \(\beta\) and \(\gamma\)</li>
+</ul>
+
+<p>#Complex Manifolds</p>
+
+<ul>
+  <li>
+    <p>page 309, beneath first paragraph, indices on \(x\) and \(y\) should be \(\mu\) instead of \(\nu\)</p>
+  </li>
+  <li>
+    <p>page 311, usage of \(a, b, c, d\) and \(a^{\prime}, b^{\prime}, c^{\prime}, d^{\prime}\) in text is inconsistent with usage in matrices</p>
+  </li>
+  <li>
+    <p>page 311, beneath fourth paragraph, should have \(\operatorname{Im}\left(\omega_{2} / \omega_{1}\right)\) in final equality</p>
+  </li>
+  <li>
+    <p>page 312, beneath \((8.4)\) and beneath \((8.5)\), should have \(\left(\tilde{\omega}_{1}, \tilde{\omega}_{2}\right)\) instead of \(\left(\omega_{1}^{\prime}, \omega_{2}^{\prime}\right)\)</p>
+  </li>
+  <li>
+    <p>page 316, beneath first paragraph, after first equality, \(\partial y^{\mu} / \partial y^{\prime \lambda}\) should be \(\partial y^{\mu} / \partial x^{\prime \lambda}\)</p>
+  </li>
+  <li>
+    <p>page 318, the matrix in (8.18) should be the transpose of that given</p>
+  </li>
+  <li>
+    <p>page 319, last line, should have \((1 / 2) \operatorname{dim}_{\mathbb{C}} T_{p} M^{\mathbb{C}}=\operatorname{dim}_{\mathbb{C}} M\left(\mathrm{NB}(1 / 2) \operatorname{dim}_{\mathbb{C}} M \notin \mathbb{Z}\right)\)</p>
+  </li>
+  <li>
+    <p>page 323, in proof of (b) of theorem 8.1, \(\partial \omega\) should be \(\partial \bar{\omega}\)</p>
+  </li>
+  <li>
+    <p>page 328, in \((8.68)\), should have \(\Gamma^{\bar{\lambda}}{}_{\overline{\kappa \nu}}\) in the second equality</p>
+  </li>
+  <li>
+    <p>page 330, in \((8.76 \mathrm{~d})\), should have \(R^{\bar{\xi}}{}_{ \bar{\lambda} \bar{\mu} \nu}\)</p>
+  </li>
+  <li>
+    <p>page 330, in \((8.79)\), should have \(\mathcal{R}=-\mathrm{i} \partial \bar{\partial} \log G\) for consistency with (8.78)</p>
+  </li>
+  <li>
+    <p>page 330, beneath \((8.79)\), should have \(\overline{\mathcal{R}}=+\mathrm{i} \overline{\partial \bar{\partial}} \log G\)</p>
+  </li>
+  <li>
+    <p>page 330, in proof of proposition \(8.2\), missing factors of \(-1\) due to the error in (8.79)</p>
+  </li>
+  <li>
+    <p>page 333, in \((8.86)\) there should be no \(\mathrm{i} / 2\) on the \(\mathrm{RHS}\) of the second equality</p>
+  </li>
+  <li>
+    <p>page 334, fact (a), note that there is no expert consensus on whether \(S^{6}\) is complex</p>
+  </li>
+  <li>
+    <p>page 334, fact (b), note that exceptionally \(S^{1} \times S^{1}\) \emph{is} Kähler</p>
+  </li>
+  <li>
+    <p>page 339, in section 8.6.2, should have \(\operatorname{Harm}_{\bar{\partial}}^{r, s}(M) \cap B_{\bar{\partial}}^{r, s}(M)=\{0\}\) instead of \(\varnothing\)</p>
+  </li>
+  <li>
+    <p>page 340, in proof of (b) of theorem \(8.10\), should have \(\omega \in H_{\bar{\partial}}^{r, s}(M)\)</p>
+  </li>
+  <li>
+    <p>page 340, number of independent Hodge numbers is \((1 / 4)(m+1)(m+2)\) if \(m\) is odd</p>
+  </li>
+</ul>
+
+<p>#Fibre Bundles</p>
+
+<ul>
+  <li>
+    <p>page 353, in last line, should have \(f^{\prime}=t_{j i}(p) f\)</p>
+  </li>
+  <li>
+    <p>page 357, in first paragraph, should have \(y=\psi(p)\) instead of \(y=\phi(p)\)</p>
+  </li>
+  <li>
+    <p>page 362, beneath \((9.36)\), should have \(\pi_{1}^{-1}(p)\) instead of \(\left(\pi \times \pi^{\prime}\right)^{-1}(p)\)</p>
+  </li>
+  <li>
+    <p>page 364, in second paragraph, should have \(s_{i}(p)\) instead of \(s_{1}(p)\)</p>
+  </li>
+  <li>
+    <p>page 365, final paragraph, the trivial bundle would be \(S^{4} \times \mathrm{SU}(2)\)</p>
+  </li>
+  <li>
+    <p>page 370, beneath \((9.66)\), would perhaps be clearer to write \((P \times F) / G\)</p>
+  </li>
+  <li>
+    <p>page 370, in example \(9.11, T_{p} M\) should be \(T M\)</p>
+  </li>
+</ul>
+
+<p>#Connections on Fibre Bundles</p>
+
+<ul>
+  <li>
+    <p>page 375, beneath \((10.1)\), should have that \(A^{\#}\) is tangent to \(G_{p}\) at \(u\)</p>
+  </li>
+  <li>
+    <p>page 378, first line, should have \(T_{\sigma_{i}(p)} P\) instead of \(T_{\sigma_{i}} P\)</p>
+  </li>
+  <li>
+    <p>page 378, first paragraph, should have \(g_{i} \equiv e\)</p>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>page 378, in verifying axiom (i), should have $$\mathrm{d} g_{i}(u \exp (t A)) /\left.\mathrm{d} t\right</td>
+          <td>_{t=0}$$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <p>page 388, beneath \((10.36)\), should have \(u \in P\)</p>
+  </li>
+  <li>
+    <p>page 390, \((10.43),(10.44)\) should have factors of \(1 / 2\) in front of the \(f_{\beta \gamma}{ }^{\alpha}\).</p>
+  </li>
+  <li>
+    <p>page 390, \((10.44)\) should have a minus sign in front of the second term</p>
+  </li>
+  <li>
+    <p>page 393*, in second line, should have \(E=P \times_{\rho} V\)</p>
+  </li>
+  <li>
+    <p>page 396, first paragraph, should have \(\mathrm{Ad}_{g} V=g V g^{-1}\)</p>
+  </li>
+  <li>
+    <p>page 396, in second line of \((10.68 \mathrm{~b}) \mathcal{A}\) should be \(A\) in accordance with (10.64)</p>
+  </li>
+  <li>
+    <p>page 397, in theorem \(10.6\) the \(\omega^{\gamma}{}_{\alpha}\) should all be \(\mathcal{A}^{\gamma}{}_{\alpha}\) in accordance with (10.56b)</p>
+  </li>
+  <li>
+    <p>page 398, the index \(\alpha\) at the end of the last and penultimate lines should be a \(\beta\)</p>
+  </li>
+  <li>
+    <p>page 400, \((10.85 \mathrm{~b})\) should have prefactor \(1 / 2\), not \(-1 / 4\), for consistency with (10.85a)</p>
+  </li>
+  <li>
+    <p>page 400, \((10.87)\) should have \(\pm 4 \mathbf{B} \cdot \mathbf{E}\) on \(\mathrm{RHS}\) ( \(\pm\) depending on convention)</p>
+  </li>
+  <li>
+    <p>page 401, \((10.91)\) differs in convention to \((10.9)\), which has \(t_{\mathrm{SN}}\) instead of \(t_{\mathrm{NS}}\)</p>
+  </li>
+  <li>
+    <p>page 403, \((10.96\) ) should have a squared modulus to ensure \(\mathcal{H}\) is real</p>
+  </li>
+  <li>
+    <p>page 405, conventions in \((10.108)\) and \((10.110)\) are atypical, see comments below</p>
+  </li>
+  <li>
+    <p>page 406, \((10.116)\) also differs in convention to (10.9)</p>
+  </li>
+  <li>
+    <p>page 406, in discussing the diffeomorphism \(\mathrm{SU}(2) \simeq S^{3}\), should have \(t^{4} I_{2}+i t^{i} \sigma_{i}\)</p>
+  </li>
+  <li>
+    <p>page 406, second paragraph should reference example \(9.8\) instead of example \(9.11\)</p>
+  </li>
+  <li>
+    <p>page 406, in \((10.117 \mathrm{~b}),(10.117 \mathrm{c})\), should have \(x^{4} I_{2}+\mathrm{i} x^{i} \sigma_{i}\)</p>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>page 412, in \((10.141)\) there should be a subscript \(i\) on $$</td>
+          <td>\mathbf{R}\rangle$$ at the end of the first line</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <p>page 413, seemingly major error in example \(10.7\), see comments below</p>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>page 414, beneath $$(10.148),</td>
+          <td>\Phi(\mathbf{R})\rangle\(should just be\)\Phi(\mathbf{R})$$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <p>page 414, in \((10.153)\), should have \(H(\mathbf{R})\) instead of \(\mathcal{H}(\mathbf{R})\)</p>
+  </li>
+  <li>
+    <p>page 415, in \((10.159 \mathrm{~b})\) there should be no loop on the integral</p>
+  </li>
+  <li>page 416, beneath \((10.167)\), charge should be \(+1 / 2\) for consistency with (10.89)</li>
+</ul>
+
+<p>#Characteristic Classes</p>
+
+<ul>
+  <li>
+    <p>page 420, beneath \((11.1)\), should have \(a_{p} \in M(k, \mathbb{C})\)</p>
+  </li>
+  <li>
+    <p>page 420, in the second line of (11.4) there should be no commas in the trace</p>
+  </li>
+  <li>
+    <p>page 421, beneath \((11.5)\), the tensor product \(\bigotimes\) should be a direct sum \(\bigoplus\)</p>
+  </li>
+  <li>
+    <p>page 422, first line, \(P(M, \mathbb{C})\) should be \(P(M, G)\)</p>
+  </li>
+  <li>
+    <p>page 425, beneath \((11.21)\), should have \(\operatorname{dim} M=2 m\)</p>
+  </li>
+  <li>
+    <p>page 425, final equation is missing a sum over permutations that cancels \(1 /(r+s)!\)</p>
+  </li>
+  <li>
+    <p>page 427, in \((11.29)\) the final term should be a product of \(x_{j}\), with no sums</p>
+  </li>
+  <li>
+    <p>page 428, in \((11.31)\) the two instances of \(\mathcal{A}\) should be \(A\)</p>
+  </li>
+  <li>
+    <p>page 431, the two instances of \(\chi\left(G_{k}\right)\) beneath \((11.45)\) should be \(\chi\left(L_{k}\right)\)</p>
+  </li>
+  <li>
+    <p>page 431, in \((11.46 \mathrm{~b})\) the direct sums should be ordinary sums</p>
+  </li>
+  <li>
+    <p>page 431, in \((11.47)\) the sum should run from \(j=0\)</p>
+  </li>
+  <li>
+    <p>page 434*, in \((11.62 \mathrm{~b})\), should have \(\operatorname{ch}(E)+\operatorname{ch}(F)\) on the \(\mathrm{RHS}\)</p>
+  </li>
+  <li>
+    <p>page 434*, in the expression for \(\operatorname{ch}(B \otimes C)\) the sum should run from \(m=0\)</p>
+  </li>
+  <li>
+    <p>page 434, final equation should have \((\mathrm{i} / 2 \pi)^{j}\)</p>
+  </li>
+  <li>
+    <p>page 435*, in (11.63) the RHS should be an ordinary sum instead of a direct sum</p>
+  </li>
+  <li>
+    <p>page 435, \((11.64)\) should be a sum \(\sum\) not a product \(\prod\)</p>
+  </li>
+  <li>
+    <p>page 438, in \((11.75 \mathrm{e})\) the second equality is true iff \(k\) is even</p>
+  </li>
+  <li>
+    <p>page 439, in \((11.79 \mathrm{~b})\) the \(\mathrm{RHS}\) isn’t a \(p\)-form if \(\mathcal{R}_{\alpha \beta}\) is defined as in above paragraph</p>
+  </li>
+  <li>
+    <p>page 439, beneath \((11.80)\), should have \(p_{l}(\mathcal{R})\) instead of \(p_{1}(\mathcal{R})\)</p>
+  </li>
+  <li>
+    <p>page 439, seemingly major error in example \(11.6\), see comments below</p>
+  </li>
+  <li>
+    <p>page 440, beneath \((11.83)\) there is a reference to seemingly unrelated (6.39)</p>
+  </li>
+  <li>
+    <p>page 442, first line, should have \(\lambda_{j}\) instead of \(\lambda_{i}\)</p>
+  </li>
+  <li>
+    <p>page 444, in \((11.107)\) there should be a 4 on the RHS instead of a 2</p>
+  </li>
+  <li>
+    <p>page 447, third paragraph, should have \(Q_{2 j+1}\left(g^{-1} \mathrm{~d} g, 0\right)\)</p>
+  </li>
+  <li>
+    <p>page 449, last line, product should run from \(j, k=0\) to \(r+2(\) and \(j \neq k)\)</p>
+  </li>
+</ul>
+
+<h1 id="index-theorems">Index Theorems</h1>
+
+<ul>
+  <li>
+    <p>page 453, second paragraph, the Dirac operator is a map \(\Gamma(M, E) \rightarrow \Gamma(M, E)\)</p>
+  </li>
+  <li>
+    <p>page 454, beneath \((12.2)\), should let \(E\), not \(F\), be a spin bundle over \(M\)</p>
+  </li>
+  <li>
+    <p>page 455, the indices on \(\xi\) in example \(12.1\) should all be downstairs, since \(\xi \in T_{p}^{*} M\)</p>
+  </li>
+  <li>
+    <p>page 458, beneath \((12.25)\), should have \(H^{r}(M ; \mathbb{R})\) instead of \(H_{r}(M ; \mathbb{R})\)</p>
+  </li>
+  <li>
+    <p>page 459, beneath \((12.29)\), the words \(\mathrm{RHS}\) and LHS should be interchanged</p>
+  </li>
+  <li>
+    <p>page 459, in \((12.32) A_{+}\)and \(A_{-}\)should be \(\Delta_{+}\)and \(\Delta_{-}\)respectively</p>
+  </li>
+  <li>
+    <p>page 460, seemingly major error with the de Rham complex, see comments below</p>
+  </li>
+  <li>
+    <p>page 463, in \((12.46)\) the \(\operatorname{sum} \sum\) should be a direct sum \(\bigoplus\)</p>
+  </li>
+  <li>
+    <p>page 463, in \((12.46)\) there is a missing factor of \((-1)^{m(m+1) / 2}\)</p>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>page 463, \((12.48)\) and \((12.50)\) should have $$\left.\right</td>
+          <td>_{\text {vol }}\(subscripts on the\)\mathrm{RHS}$$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <p>page 464, in \((12.51)\), should have \((1-g)\); in equation beneath, should have \((2-2 g)\)</p>
+  </li>
+  <li>
+    <p>page 464, in \((12.51)\), should have \(\operatorname{tr} \mathcal{F}\) instead of \(\mathcal{F}\)</p>
+  </li>
+  <li>
+    <p>page 470, missing factors of \(-1\) in \((12.83)\), see comments below</p>
+  </li>
+  <li>
+    <p>page 471, in (12.84) \(\mathcal{D}_{+}\)should be \(\mathcal{P}_{+}\)</p>
+  </li>
+  <li>
+    <p>page 472, the unnumbered equation applies when the connection is flat, with \(\omega_{\mu}=0\)</p>
+  </li>
+  <li>
+    <p>page 472, \(\bar{\sigma}_{\mu \nu}\) should be defined as \((1 / 4 \mathrm{i})\left(\bar{\alpha}^{\mu} \alpha^{\nu}-\bar{\alpha}^{\nu} \alpha^{\mu}\right)\)</p>
+  </li>
+  <li>
+    <p>page 472, penultimate line of section \(12.6\) should read \(\bar{\sigma}^{\mu \nu}=-* \bar{\sigma}^{\mu \nu}\)</p>
+  </li>
+  <li>
+    <p>page 474, the first line should have \(\tilde{h}(t)\) rather than \(h(t)\)</p>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>page 474, above \((12.105)\) and in \((12.106 \mathrm{~b})\) the \(\mid \mu), \mid m)\) should be $$</td>
+          <td>\mu\rangle,</td>
+          <td>m\rangle$$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <p>page 474, the exponents in (12.106) are missing a factor \(t\)</p>
+  </li>
+  <li>
+    <p>page 476, \((12.114)\) is valid providing \(\langle 0, i \mid f\rangle=0\)</p>
+  </li>
+  <li>
+    <p>page 478, in \((12.122 \mathrm{a})\) there should be a \(\otimes\) between \(\sigma_{1}\) and \(\partial / \partial t\)</p>
+  </li>
+  <li>
+    <p>page 478, the definitions of \(D\) and \(D^{\dagger}\) in \((12.122 \mathrm{~b})\) should be interchanged</p>
+  </li>
+  <li>page 481, in second equation, should have \(d_{n}\) instead of \(b_{n}(0)\)</li>
+</ul>
+
+<h1 id="comments">COMMENTS</h1>
+
+<ul>
+  <li>{\bf Page 38:} if the infinite product in (1.164) is evaluated correctly, it yields the wrong partition function \(\sqrt{\pi} / 2 \sinh (\beta \omega / 2)\). Equivalently, the infinite product formula deduced directly above \((1.165)\) is in fact false. This factor of \(\pi\) can be traced back to the numerical factors ignored on page 36. The determinant in (1.154) should contain a factor \(m / \pi\) (indeed, there are many missing factors of \(m\) throughout Method 2 ). This in turn modifies the first infinite product in \((1.156)\), so that \((1.160)\) should read</li>
+</ul>
+
+<p>[\zeta_{-(m/\pi)\mathrm{d}^2/\mathrm{d}\tau^2}(s) = \sum_{n \geq 1} \left(\frac{mn}{\beta}\right)^{-2s} = \left(\frac{\beta}{m}\right)^{2s}\zeta(2s).]</p>
+
+<p>Following this through puts a factor of \(\pi / m\) in the first bracket of (1.164), which cancels the \(\pi\) in the second bracket (the classical action), as well as the factor \(m\) that should have been in the second bracket, to yield the correct partition function. With (1.164) corrected in this way, the derived formula for the infinite product directly beneath it has no factor of \(\pi\) in the numerator, as appropriate. Finally, there is also a simple typo in \((1.164)\) - the \(\beta \pi\) in the curly brackets should be \(\beta \omega\).</p>
+
+<ul>
+  <li>{\bf  Page 44:} I think the change of variables at the bottom of the page should instead be</li>
+</ul>
+
+\[\eta_{k}=\left(\theta_{k}+\mathrm{i} \theta_{k}^{\prime}\right) / \sqrt{2}, \quad \eta_{k}^{*}=\left(\theta_{k}-\mathrm{i} \theta_{k}^{\prime}\right) / \sqrt{2}\]
+
+<p>This makes the equation on the following page correct up to terms symmetric in \(i, j\), which vanish on contraction with \(a_{i j}\) to yield the correct final expression for the Pfaffian. This change of variables also yields a Jacobian \((-1)^{n}\) which cancels the factor \((-1)^{n^{2}}\).</p>
+
+<ul>
+  <li>
+    <p>{\bf  Page 137*:} in theorem \(4.7\) we should talk of a maximal tree rather than \emph{the} maximal tree, since a maximal tree is far from unique.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 234:} in the proof of (a) of corollary 6.1, we should have that the intersection of the kernels of the \(\Lambda\left(\left[c_{i}\right], \cdot\right)\) is \(\{0\}-\) each individually can have non-trivial kernel.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 327:} in (8.61) we should view \(\tilde{V}^{\mu}(z)\) as a function of \(z\) and \(\bar{z}\), and consider a perturbation just of \(z\); in general the \(\tilde{V}^{\mu}\) are not holomorphic functions. We could then also consider \(\tilde{V}^{\mu}(z, \bar{z}+\Delta \bar{z})\) - if we choose our connection to have no mixed indices, then for \(V^{\mu}\) a holomorphic vector field, this is just equal to \(V^{\mu}(z, \bar{z})\).</p>
+  </li>
+  <li>
+    <p>{\bf  Page 333:} example \(8.7\) specifically refers to \emph{orientable} complex manifolds. But we don’t need this condition, since all complex manifolds are orientable.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 334:} in defining a Hermitian metric from \(\Omega\), we need to show also that the metric is symmetric. This can be shown to follow from the \(J\)-invariance of any (1,1)-form. The symmetry of the metric is then necessary to prove the Hermiticity of \(g\).</p>
+  </li>
+  <li>
+    <p>{\bf  Page 357:} in the definition of a vector bundle, it is stated that “transition functions belong to \(\mathrm{GL}(k, \mathbb{R})\), since it maps a vector space onto another vector space”. The definition of a fibre bundle only requires that this map is a diffeomorphism, however; the linearity of the map is an additional part of the definition of a vector bundle.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 370:} in defining associated vector bundles we should talk of a \(k\)-dimensional representation of \(G\) rather than \emph{the} \(k\)-dimensional representation, since there are generally many representations of a group of a given dimension.</p>
+
+    <ul>
+      <li>{\bf Page 371*:} in \((9.72)\) the structure group should be \(\mathrm{SL}(2, \mathbb{C})\) instead of the direct sum \(\mathrm{SL}(2, \mathbb{C}) \oplus \overline{\mathrm{SL}(2, \mathbb{C})}\) - a Dirac spinor does transform under a direct sum representation (note that the fibre is \(\left.\mathbb{C}^{4}\right)\), but a direct sum representation of the group \(\mathrm{SL}(2, \mathbb{C})\). Further, to be completely clear, note that Weyl and Dirac spinors are sections of vector bundles associated to the \(\operatorname{SPIN}(k)\) bundle (itself ‘lifted’ from the orthonormal frame bundle), as opposed to sections of the \(\operatorname{SPIN}(k)\) bundle itself.</li>
+    </ul>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>{\bf  Page 405:} in (10.108) there should be a prefactor of \(-1 / 2\), not \(-1 / 4\), in the first equality, as well as an integration measure $$\sqrt{</td>
+          <td>g</td>
+          <td>} \mathrm{d}^{4} x\(, and prefactor of\)-1\(, not\)1 / 2\(, in the second equality (cf. equations\)(1.268)\(and\)(10.85 a)$$ ). This follows from</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+\[\mathcal{F} \wedge * \mathcal{F}=\frac{1}{2} \mathcal{F}_{\mu \nu} \mathcal{F}^{\mu \nu}(\mathrm{vol}) \quad \text { and } \quad \operatorname{tr}\left(T_{a} T_{b}\right)=-\frac{1}{2} \delta_{a b}\]
+
+<p>Equation (10.110) is modified accordingly, retaining the extra sign from the Wick rotation.</p>
+
+<ul>
+  <li>
+    <p>{\bf  Page 413:} in (10.147) we seek eigenstates of the total Hamiltonian, including both fast and slow degrees of freedom. The energies should thus not be labelled by \(\mathbf{R}\), since the eigenstates are functions of \(\mathbf{R}\). Further, though the energy is labelled by an integer, this need not be the same integer \(n\) as that specifying the eigenstate of the fast degrees of freedom. Thus \(E_{n}(\mathbf{R})\) should more appropriately be \(E_{m}\).</p>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>{\bf  Page 413:} in deriving (10.147) from the equation above it, we need to turn $$\left\langle\mathbf{R}\left</td>
+          <td>\nabla_{\mathbf{R}}^{2}\right</td>
+          <td>\mathbf{R}\right\rangle\(into\)\left(\left\langle\mathbf{R}\left</td>
+          <td>\nabla_{\mathbf{R}}\right</td>
+          <td>\mathbf{R}\right\rangle\right)^{2}\(. This involves inserting a resolution of the identity between the two derivatives. According to\)(10.148)\(, this amounts merely to inserting\)</td>
+          <td>\mathbf{R}\rangle\langle\mathbf{R}</td>
+          <td>$$, though this is in fact the \emph{adiabatic} approximation and not the \emph{Born-Oppenheimer} approximation.</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<p>In inserting this operator, however, we generate two terms, by the Leibniz rule. One is the desired \(\mathcal{A}(\mathbf{R})^{2}\) term. The other is a term \(\nabla_{\mathbf{R}} \cdot \mathcal{A}(\mathbf{R})\), which is missing from \((10.147)\). In fact, the inclusion of this term is necessary to ensure (10.149) is correct (and it is indeed correct), since upon expanding the brackets we see that (10.149) includes the very derivative of \(\mathcal{A}(\mathbf{R})\) that ought to have been present in (10.147).</p>
+
+<ul>
+  <li>
+    <p>{\bf  Page 435:} the comments at the very end of section \(11.3 .2\) seem misleading. Characteristic classes themselves certainly \emph{can} differentiate between two vector bundles of the same space and the same fibre dimension. This is precisely the point of characteristic classes - they classify different bundles with a given fibre over a given base space. Indeed, if the \emph{integral} of a characteristic class over the base space can distinguish different bundles, then the classes themselves must also be able to also.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 439:} the errors in example \(7.14\) have propagated here. Firstly note that \(g_{\theta \theta} \neq \sin ^{2} \theta\) as claimed. Further, the trace of \(\mathcal{R}^{2}\) should be a trace over Lie algebra indices, that is,</p>
+  </li>
+</ul>
+
+<p>[
+\operatorname{tr}\left(\mathcal{R}^{2}\right)=\mathcal{R}^{\alpha}{}<em>{\beta} \mathcal{R}^{\beta}{}</em>{\alpha} \quad \text { where } \quad \mathcal{R}^{\alpha}{}<em>{\beta}=\frac{1}{2} R^{\alpha}{}</em>{\beta \mu \nu} \theta^{\mu} \wedge \theta^{\nu}
+]</p>
+
+<p>as in (7.146b), and not as in the paragraph at the top of the page. In computing the trace, we should not lower the indices on \(\mathcal{R}^{\alpha}{}_{\beta}\), as in this example and in (11.79b). The error in \(R^{\theta}{}_{\phi \theta \phi}\) from example \(7.14\) (missing a factor \(\sin ^{3} \theta\) ), the error in \(g_{\theta \theta}\) (an erroneous factor \(\sin ^{2} \theta\) ), and the error in lowering a \(\phi\) and a \(\theta\) index (an erroneous factor \(\sin ^{2} \theta\) in \(\left.\mathcal{R}_{\theta \phi} \mathcal{R}_{\phi \theta}\right)\) conspire so that the expression for \(\operatorname{tr}\left(\mathcal{R}^{2}\right)\) is in fact correct.</p>
+
+<ul>
+  <li>
+    <p>{\bf Page 445:} if we include \(\delta t\) both in the definition of \(l_{t} \mathcal{F}_{t}\) in \((11.109)\) and in the definition of the homotopy operator \(k_{01}\) in \((11.113)\), we will get two factors of \(\delta t\) in our integrals, such as in the second line of (11.114), which is nonsense.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 448:} the Bianchi identity (11.124) should hold off-shell, and indeed it does from the definition of \(* F\) directly above. Invoking the equations of motion isn’t necessary.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 455:} there is one caveat in exercise 12.1. We should have that \(D\) is elliptic if and only if \(\sigma(D, \xi)=\pm 1\) for at least one choice of sign. For instance, consider the Laplacian multiplied by \(-1\). This is surely elliptic, but \(\sigma(D, \xi)=1\) has empty solution set.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 460:} the symbol \(\sigma(\mathrm{d}, \xi)=\xi \wedge\) obtained in (12.36) is \emph{not} non-singular for \(\xi \neq 0\) as claimed (indeed, the fibre dimensions \(k\) and \(k^{\prime}\) are generally different), and \(\mathrm{d}\) is \emph{not} an elliptic operator. To apply the index theorem, we should consider the operator \(\mathrm{d}+\mathrm{d}^{\dagger}\), which is elliptic, and the two-term complex \(\Omega^{\pm}(M)\), as in example \(12.2\). As argued in section 12.1.3, this complex has the same index as the de Rham complex.</p>
+  </li>
+</ul>
+
+<p>Since elliptic operators on a compact manifold are Fredholm (see section 12.1.2), we don’t need to worry about restricting \(\Omega^{r}(M)\) to \(H^{r}(M)\), as stated at the bottom of page 460 , since \(\mathrm{d}+\mathrm{d}^{\dagger}\) has finite-dimensional kernel and cokernel when acting on \(\Omega^{\pm}(M)\). This is just as well, since the AS index theorem as applied in (12.38) involves the characteristic classes of the \(r\)-form bundle \(\wedge^{r} T^{*} M^{\mathbb{C}}\), not some bundle of closed forms.</p>
+
+<p>Put another way, the defining feature of an elliptic complex is not that the differential operators involved are elliptic, as suggested in section 12.1.3. Instead, the defining feature is that the symbol complex is \emph{exact}, which is to say that the image of \(\sigma\left(\mathrm{D}_{r}, \xi\right)\) coincides with the kernel of \(\sigma\left(\mathrm{D}_{r+1}, \xi\right)\). This can be shown to hold for the map \(\xi \wedge\). Such a definition is motivated by the (non-trivial) result that a complex \((E, D)\) is elliptic if and only if the operator \(\mathrm{D}+\mathrm{D}^{\dagger}\), which acts on the even and odd bundles of (12.21), is elliptic. These same comments apply to the Dolbeault complex and equation (12.45).</p>
+
+<ul>
+  <li>
+    <p>{\bf Page 463:} the first line would read better as ‘take a \((0, r)\)-form \(\omega \in \Omega_{p}^{0, r}(M)\) ‘. Firstly, \(\omega\) is not a section but rather the value of a section \(\tilde{s}\) at the point \(p\). Secondly, the words ‘holomorphic’ and ‘anti-holormophic’ as applied to differential forms typically concern the derivatives of the components, as in definition 8.3. Here, however, the word is being used merely to identify \(\omega\) as a \((0, r)\)-form, as opposed to a general r-form. This usage is analogous to that in the context of tangent vectors; in this case, ‘holomorphic’ refers to the subspace of the tangent space the vector belongs to (see section 8.2.3).</p>
+  </li>
+  <li>
+    <p>{\bf  Page 470:} in the expression for the topological index in (12.83) there is a missing factor of \((-1)^{m(m+1) / 2}\) on the \(\mathrm{RHS}\) (cf. (12.33)). Likewise, on page 467 , in the unnumbered equation for the topological index of the signature complex, I believe the factor \((-1)^{l}\) should instead be \((-1)^{l(2 l+1)}\) (cf. \((12.38)\) ). Both of these factors are inconsequential, however, since both indices are zero unless \(m=0 \bmod 4\).</p>
+  </li>
+  <li>
+    <p>{\bf  Page 496:} in (12.183) it is stated that \(e^{-\beta \omega / 2} \sinh (\beta \omega / 2)\) tends to one as \(\omega\) goes to zero. This is plainly false. Indeed it appears that the determinant of \(\mathrm{d} / \mathrm{d} t\) is in fact zero. The only resolution I can see is to use the independence of the index of \(\beta\) to take the limit \(\beta \rightarrow \infty\) before taking \(\omega \rightarrow 0\), which gives the desired limit for the determinant.</p>
+  </li>
+</ul>
+
+    </div>
+  </article>
+</div>
+
+      
+    </div>
+
+    <!-- Footer -->    
+    <footer class="fixed-bottom">
+      <div class="container mt-0">
+        © Copyright 2023 Loreno  Heer. Last updated: May 05, 2023.
+      </div>
+    </footer>
+
+    <!-- JavaScripts -->
+    <!-- jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- Bootsrap & MDB scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
+
+    <!-- Masonry & imagesLoaded -->
+  <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <script defer src="/assets/js/masonry.js" type="text/javascript"></script>
+    
+  <!-- Medium Zoom JS -->
+  <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.8/dist/medium-zoom.min.js" integrity="sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8=" crossorigin="anonymous"></script>
+  <script defer src="/assets/js/zoom.js"></script>
+
+  <!-- Bootstrap Table -->
+  <script defer src="https://unpkg.com/bootstrap-table@1.21.3/dist/bootstrap-table.min.js"></script>
+
+  <!-- Load Common JS -->
+  <script src="/assets/js/no_defer.js"></script>
+  <script defer src="/assets/js/common.js"></script>
+  <script defer src="/assets/js/copy_code.js" type="text/javascript"></script>
+
+    
+  <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+  <script async src="https://badge.dimensions.ai/badge.js"></script>
+
+    <!-- MathJax -->
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        tags: 'ams'
+      }
+    };
+  </script>
+  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
+  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-K9EBNZ3VFP"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ window.dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-K9EBNZ3VFP');
+  </script><!-- Panelbear Analytics - We respect your privacy -->
+  <script async src="https://cdn.panelbear.com/analytics.js?site=ECuYcBQ7UVr"></script>
+  <script>
+    window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
+    panelbear('config', { site: 'ECuYcBQ7UVr' });
+  </script>
+    
+
+<!-- Scrolling Progress Bar -->
+<script type="text/javascript">
+  /*
+   * This JavaScript code has been adapted from the article 
+   * https://css-tricks.com/reading-position-indicator/ authored by Pankaj Parashar, 
+   * published on the website https://css-tricks.com on the 7th of May, 2014.
+   * Couple of changes were made to the original code to make it compatible 
+   * with the `al-foio` theme.
+   */
+  const progressBar = $("#progress");
+  /*
+   * We set up the bar after all elements are done loading.
+   * In some cases, if the images in the page are larger than the intended
+   * size they'll have on the page, they'll be resized via CSS to accomodate
+   * the desired size. This mistake, however, breaks the computations as the
+   * scroll size is computed as soon as the elements finish loading.
+   * To account for this, a minimal delay was introduced before computing the
+   * values.
+   */
+  window.onload = function () {
+    setTimeout(progressBarSetup, 50);
+  };
+  /*
+   * We set up the bar according to the browser.
+   * If the browser supports the progress element we use that.
+   * Otherwise, we resize the bar thru CSS styling
+   */
+  function progressBarSetup() {
+    if ("max" in document.createElement("progress")) {
+      initializeProgressElement();
+      $(document).on("scroll", function() {
+        progressBar.attr({ value: getCurrentScrollPosition() });
+      });
+      $(window).on("resize", initializeProgressElement);
+    } else {
+      resizeProgressBar();
+      $(document).on("scroll", resizeProgressBar);
+      $(window).on("resize", resizeProgressBar);
+    }
+  }
+  /*
+   * The vertical scroll position is the same as the number of pixels that
+   * are hidden from view above the scrollable area. Thus, a value > 0 is
+   * how much the user has scrolled from the top
+   */
+  function getCurrentScrollPosition() {
+    return $(window).scrollTop();
+  }
+
+  function initializeProgressElement() {
+    let navbarHeight = $("#navbar").outerHeight(true);
+    $("body").css({ "padding-top": navbarHeight });
+    $("progress-container").css({ "padding-top": navbarHeight });
+    progressBar.css({ top: navbarHeight });
+    progressBar.attr({
+      max: getDistanceToScroll(),
+      value: getCurrentScrollPosition(),
+    });
+  }
+  /*
+   * The offset between the html document height and the browser viewport
+   * height will be greater than zero if vertical scroll is possible.
+   * This is the distance the user can scroll
+   */
+  function getDistanceToScroll() {
+    return $(document).height() - $(window).height();
+  }
+
+  function resizeProgressBar() {
+    progressBar.css({ width: getWidthPercentage() + "%" });
+  }
+  // The scroll ratio equals the percentage to resize the bar
+  function getWidthPercentage() {
+    return (getCurrentScrollPosition() / getDistanceToScroll()) * 100;
+  }
+</script>
+
+  </body>
+</html>

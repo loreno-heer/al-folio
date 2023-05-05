@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://loreno-heer.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://loreno-heer.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-05T08:31:21+00:00</updated><id>https://loreno-heer.github.io/feed.xml</id><title type="html">blank</title><subtitle>Professional website of Dr. sc. nat. Loreno Heer, PhD Mathematician
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://loreno-heer.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://loreno-heer.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-05T08:45:29+00:00</updated><id>https://loreno-heer.github.io/feed.xml</id><title type="html">blank</title><subtitle>Professional website of Dr. sc. nat. Loreno Heer, PhD Mathematician
 </subtitle><entry><title type="html">a post with table of contents on a sidebar</title><link href="https://loreno-heer.github.io/blog/2023/sidebar-table-of-contents/" rel="alternate" type="text/html" title="a post with table of contents on a sidebar" /><published>2023-04-25T14:14:00+00:00</published><updated>2023-04-25T14:14:00+00:00</updated><id>https://loreno-heer.github.io/blog/2023/sidebar-table-of-contents</id><content type="html" xml:base="https://loreno-heer.github.io/blog/2023/sidebar-table-of-contents/"><![CDATA[<p>This post shows how to add a table of contents as a sidebar.</p>
 
 <h2 id="adding-a-table-of-contents">Adding a Table of Contents</h2>
@@ -152,7 +152,734 @@
 
 <h3 id="example-of-another-sub-heading-2">Example of another Sub-Heading 2</h3>
 
-<p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="toc" /><summary type="html"><![CDATA[an example of a blog post with table of contents]]></summary></entry><entry><title type="html">a post with giscus comments</title><link href="https://loreno-heer.github.io/blog/2022/giscus-comments/" rel="alternate" type="text/html" title="a post with giscus comments" /><published>2022-12-10T15:59:00+00:00</published><updated>2022-12-10T15:59:00+00:00</updated><id>https://loreno-heer.github.io/blog/2022/giscus-comments</id><content type="html" xml:base="https://loreno-heer.github.io/blog/2022/giscus-comments/"><![CDATA[<p>This post shows how to add GISCUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with giscus comments]]></summary></entry><entry><title type="html">Emacs config that works well</title><link href="https://loreno-heer.github.io/blog/2022/emacs-config/" rel="alternate" type="text/html" title="Emacs config that works well" /><published>2022-04-16T15:09:00+00:00</published><updated>2022-04-16T15:09:00+00:00</updated><id>https://loreno-heer.github.io/blog/2022/emacs-config</id><content type="html" xml:base="https://loreno-heer.github.io/blog/2022/emacs-config/"><![CDATA[<h1 id="setup-emacs-for-latex-and-coding">Setup Emacs for LaTeX and Coding</h1>
+<p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="toc" /><summary type="html"><![CDATA[an example of a blog post with table of contents]]></summary></entry><entry><title type="html">a post with giscus comments</title><link href="https://loreno-heer.github.io/blog/2022/giscus-comments/" rel="alternate" type="text/html" title="a post with giscus comments" /><published>2022-12-10T15:59:00+00:00</published><updated>2022-12-10T15:59:00+00:00</updated><id>https://loreno-heer.github.io/blog/2022/giscus-comments</id><content type="html" xml:base="https://loreno-heer.github.io/blog/2022/giscus-comments/"><![CDATA[<p>This post shows how to add GISCUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with giscus comments]]></summary></entry><entry><title type="html">Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara</title><link href="https://loreno-heer.github.io/blog/2022/nakahara/" rel="alternate" type="text/html" title="Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara" /><published>2022-04-17T15:12:00+00:00</published><updated>2022-04-17T15:12:00+00:00</updated><id>https://loreno-heer.github.io/blog/2022/nakahara</id><content type="html" xml:base="https://loreno-heer.github.io/blog/2022/nakahara/"><![CDATA[<p>There used to be an updated errata for the book Geometry, Topology and Physics (Second Edition) by Mikio Nakahara
+available on the internet. But the original author of the errata does not seem to be reachable anymore.
+I compiled a new LaTeX version. Feel free to email me with updates and corrections and I will add them to the new version.
+(Also keep in mind there is supposedly a new third edition coming out 2024).</p>
+
+<p>Here is the <a href="/notes/nakahara-errata.pdf">Pdf</a> and <a href="/notes/nakahara-errata.tex">LaTeX</a> (last updated: 17. April 2022).</p>
+
+<ul>
+  <li>page 6\Dag, <code class="language-plaintext highlighter-rouge">Lagrange equation is employed to replace the LHS'' should be</code>Lagrange equation is employed to replace the RHS’’</li>
+  <li>
+    <p>page 8, in the Lagrangian in example \(1.4\), \(\dot{\phi}^{2}\) should be \(\dot{\theta}^{2}\)</p>
+  </li>
+  <li>
+    <p>page 9, a bra vector should be defined as an element of \(\mathcal{H}^{*}\)</p>
+  </li>
+  <li>
+    <p>page 17, in (1.65) \(\varepsilon\) should be \(2 \varepsilon\)</p>
+  </li>
+  <li>
+    <p>page 21, in (1.92) there is a missing factor of \(\sqrt{m}\)</p>
+  </li>
+  <li>
+    <p>page 21, in (1.92) the factor \((x-y)\) should be squared only once</p>
+  </li>
+  <li>
+    <p>page 33, many missing factors of \(m\) in equations (1.143) - (1.151)</p>
+  </li>
+  <li>
+    <p>page \(38,(1.164)\) and equation beneath seem incorrect, see comments below</p>
+  </li>
+  <li>
+    <p>page 39, the Hamiltonian at the top of the page is missing a factor of \(\omega\)</p>
+  </li>
+  <li>
+    <p>page 39, in (1.168) \(c c^{\dagger}\) should be \(c^{\dagger} c\)</p>
+  </li>
+  <li>
+    <p>page 44, \(\mathrm{d} \theta\) should be \(\mathrm{d} \theta^{\prime}\) in (1.187); \(\mathrm{d} \theta_{1}\) should be \(\mathrm{d} \theta_{1}^{\prime}\) in equation for \(I^{2}\)</p>
+  </li>
+  <li>
+    <p>page 44, variable change from \(\theta_{k}, \theta_{k}^{\prime}\) to \(\eta_{k}, \eta_{k}^{*}\) seems incorrect, see comments below</p>
+  </li>
+  <li>
+    <p>page 45, in equation at top of page, \(\mathrm{d} \eta_{i}\) should be \(\mathrm{d} \eta_{1}\)</p>
+  </li>
+  <li>
+    <p>page 45, in (1.190) there should be no \(2^{n / 2}\) and exponent should be \(-{ }^{t} K M^{-1} K / 2\)</p>
+  </li>
+  <li>
+    <p>page 48, in second line of second equation for \(Z(\beta)\), missing factor \(\mathrm{e}^{-\theta^{*} \theta}\)</p>
+  </li>
+  <li>
+    <p>page 50, in equation for \(Z(\beta)\), first two products should run over \(n\), not \(k\)</p>
+  </li>
+  <li>
+    <p>page 53, in (1.220) the \(-\) in front of \(i \varepsilon\) should be \(+\)</p>
+  </li>
+  <li>
+    <p>page 53 in (1.224) the \(-\) in front of the integral and in front of \(i \varepsilon\) should be \(+\)</p>
+  </li>
+  <li>
+    <p>page 55, in (1.237) the \(x\) in the argument of the exponential should be \((x-y)\)</p>
+  </li>
+  <li>
+    <p>page 56, in (1.241d) the second \(\mathbf{E}\) should be \(\mathbf{B}\)</p>
+  </li>
+  <li>
+    <p>page 64, in (1.293) there should be no factor of i</p>
+  </li>
+  <li>
+    <p>page 65, the LHS of \((1.298)\) should be traced over</p>
+  </li>
+  <li>
+    <p>page 65, (1.298) should have only one Hodge star in the second term</p>
+  </li>
+  <li>
+    <p>page 65, in (1.300), (1.304) there should be no factor of \(\mathrm{i}\)</p>
+  </li>
+  <li>page 65, (1.301b) should have a \(+\) instead of a \(-\) for consistency with (10.117b)</li>
+</ul>
+
+<p>#Homotopy Groups</p>
+
+<ul>
+  <li>page 130*, in (4.9), should have \(1 / 2 \leq r \leq 1\)</li>
+  <li>page 130*, in example \(4.1\) the homotopy interpolates between \(\operatorname{id}_{Y}\) and \(f \circ g\)</li>
+  <li>page 152\Dag, (a) \(n &gt; 2\) should be \(n \geq 2\)</li>
+</ul>
+
+<p>#Manifolds</p>
+
+<ul>
+  <li>
+    <p>page 196, in (5.62) the \(\wedge\) on the RHS should all be \(\otimes\)</p>
+  </li>
+  <li>
+    <p>page 199, beneath (5.70), the sum should run from \(i=1\) to \(r+1\)</p>
+  </li>
+  <li>
+    <p>page 202* \((5.83)\) should read \(\mathrm{i}_{[X, Y]} \omega=\left[\mathcal{L}_{X}, \mathrm{i}_{Y}\right] \omega\)</p>
+  </li>
+  <li>
+    <p>page 203, in \((5.94)\) there should be a \(+\) after \(\partial / \partial p_{\mu}\)</p>
+  </li>
+  <li>
+    <p>page 204, in (5.96) \(f\) and \(g\) should be interchanged in the second term</p>
+  </li>
+  <li>
+    <p>page 213, in \((5.125)\), should have \(\phi(s)\) instead of \(\phi(t)\) on the LHS</p>
+  </li>
+  <li>
+    <p>page 216, beneath \((5.138)\), should have \(T_{g}^{*} G\)</p>
+  </li>
+  <li>
+    <p>page 217*, beneath \((5.130)\), should have \(-x^{t} \eta x\) instead of \(-X^{t} \eta X\)</p>
+  </li>
+  <li>
+    <p>page 217\Dag, last paragraph reference to 5.14 should be 5.141</p>
+  </li>
+</ul>
+
+<p>#De Rham Cohomology Groups</p>
+
+<ul>
+  <li>
+    <p>page 234, in corollary \(6.1\) the \(\left[c_{i}\right]\) need to be linearly independent, not just different</p>
+  </li>
+  <li>
+    <p>page 235, in \((6.27)\), should have \(\mathrm{d}_{r-1}\) instead of \(\mathrm{d}_{r}\) and \(\mathrm{d}_{r}\) instead of \(\mathrm{d}_{r+1}\)</p>
+  </li>
+  <li>
+    <p>page 230, in third paragraph, should have \(r=3\) instead of \(m=3\)</p>
+  </li>
+  <li>
+    <p>page 235, in theorem \(6.3\) we must have \(r \geq 1\)</p>
+  </li>
+  <li>
+    <p>page 237*, in section \(6.4 .1\) we must have that \(M\) is orientable</p>
+  </li>
+  <li>
+    <p>page 238, in \((6.40)\) the sum should run from \(r=0\)</p>
+  </li>
+  <li>
+    <p>page 239, in the first line of \((6.46)\) the sums should run from \(r=0\)</p>
+  </li>
+</ul>
+
+<p>#Riemannian Geometry</p>
+
+<ul>
+  <li>page 247, <code class="language-plaintext highlighter-rouge">LHS'' should be</code>RHS’’</li>
+  <li>
+    <p>page 250\Dag, equation (7.15) should be:
+[… = … = V^\mu(e_\mu[W^{\color{red} \nu}]e_\nu+W^\nu\nabla_{e_\mu}e_\nu) = …]</p>
+  </li>
+  <li>
+    <p>page 253, beneath \((7.29)\), should have \(Y^{\mu}\) in the second term on the \(\mathrm{RHS}\)</p>
+  </li>
+  <li>
+    <p>page 253, above \((7.30)\), should have \(V^{\kappa} \nabla_{\kappa} X=V^{\kappa} \nabla_{\kappa} Y=0\)</p>
+  </li>
+  <li>
+    <p>page 255, in \((7.42)\), should have \(\Gamma_{\mu \lambda}^{\eta}\) in second term of second line</p>
+  </li>
+  <li>
+    <p>page 264, in \((7.63)\), should have \(\sin ^{2} \theta\)</p>
+  </li>
+  <li>
+    <p>page 265, in \((7.86 \mathrm{~b})\), should have \(-y^{\prime 2}\) instead of \(+3 y^{\prime 2}\)</p>
+  </li>
+  <li>
+    <p>page 268*, in exercise \(7.11\), fourth term of last line, should have \(g_{\lambda \nu}\) instead of \(g_{\mu \nu}\)</p>
+  </li>
+  <li>
+    <p>page 269, in \((7.82)\), second equality, the first \(-\) should be a \(+\)</p>
+  </li>
+  <li>
+    <p>page 275, in proof of proposition \(7.1\), should have \(\bar{\nabla}_{X} Y, \nabla_{X} Y\) instead of \(\bar{\nabla}_{X}, \nabla_{X}\)</p>
+  </li>
+  <li>
+    <p>page 277, in \((7.115)\) should have a \(+\) instead of a \(-\) after \(R_{\kappa \lambda \mu \nu}\)</p>
+  </li>
+  <li>
+    <p>page 277, beneath \((7.115)\), should have \(C^{\kappa} _{\lambda \mu \nu}=\bar{C}^{\kappa} _{\lambda \mu \nu}\)</p>
+  </li>
+  <li>
+    <p>page 284, in \((7.144)\) there is a missing bracket on the second line</p>
+  </li>
+  <li>
+    <p>page 288, beneath \((7.162)\), should have \(R^{1}{}_{212}=1, R^{2}{}_{112}=-1\)</p>
+  </li>
+  <li>
+    <p>page 288, beneath second paragraph, should have \(R^{\theta}{}_{\phi \theta \phi}=\sin ^{2} \theta R^{1}{}_{212}=\sin ^{2} \theta\)</p>
+  </li>
+  <li>
+    <p>page 289, in \((7.167)\) the equation for \(R^{0}{}_{2}\) should have \(M\) instead of \(2 M\)</p>
+  </li>
+  <li>
+    <p>page 294, in \((7.188)\), fourth line, there should be no factor of \(g^{-1}\)</p>
+  </li>
+  <li>
+    <p>page 294, \((7.190)\) applies to a compact orientable manifold without boundary</p>
+  </li>
+  <li>
+    <p>page 295, in exercise \(7.23\) the projector \(P\) must be an orthogonal projector</p>
+  </li>
+  <li>
+    <p>page 296, in fifth paragraph, should have \(B^{r}(M) \cap \operatorname{Harm}^{r}(M)=\{0\}\) instead of \(\varnothing\)</p>
+  </li>
+  <li>
+    <p>page 298, in proof of (c) of proposition \(7.2\), should have \(\delta \Gamma^{\kappa}{}_{\kappa \mu}\) instead of \(\Gamma^{\kappa}{}_{\kappa \mu}\)</p>
+  </li>
+  <li>
+    <p>page 299, beneath first paragraph in third equality, should have \(\nabla_\nu \delta \Gamma^{\kappa}{}_{\kappa \mu}\)</p>
+  </li>
+  <li>
+    <p>page 299, second paragraph, second equation \(g^{\mu\nu}\delta\Gamma^\kappa\,_{\mu\nu}\sqrt{-g}\) should be \(g^{\mu\nu}\delta\Gamma^\kappa\,_{\nu\mu}\sqrt{-g}\)</p>
+  </li>
+  <li>
+    <p>page 301, in \((7.220)\), should have \(\Lambda_{\alpha}{ }^{\beta}\) instead of \(\Lambda_{\alpha}{ }^{\eta}\)</p>
+  </li>
+  <li>
+    <p>page 302,\(\left(7.229 \mathrm{a}^{\prime}\right)\) should have \(2 m\) instead of \(m\)</p>
+  </li>
+  <li>
+    <p>page 305, in exercise \(7.28\) we make use of symmetries (i) and (ii)</p>
+  </li>
+  <li>
+    <p>page 305, in \((7.238)\) the \(\mathrm{RHS}\) should have a conformal factor \(2 /\left(\partial^{\alpha} X^{\mu} \partial_{\alpha} X_{\mu}\right)\)</p>
+  </li>
+  <li>
+    <p>page 306*, in exercise \(7.29\) should have \(h_{\alpha \beta}\) instead of \(G_{\alpha \beta}\) for consistency with (7.243)</p>
+  </li>
+  <li>page 306, in \((7.242)\) the indices on the \(\phi\) fields in the second term should be \(\beta\) and \(\gamma\)</li>
+</ul>
+
+<p>#Complex Manifolds</p>
+
+<ul>
+  <li>
+    <p>page 309, beneath first paragraph, indices on \(x\) and \(y\) should be \(\mu\) instead of \(\nu\)</p>
+  </li>
+  <li>
+    <p>page 311, usage of \(a, b, c, d\) and \(a^{\prime}, b^{\prime}, c^{\prime}, d^{\prime}\) in text is inconsistent with usage in matrices</p>
+  </li>
+  <li>
+    <p>page 311, beneath fourth paragraph, should have \(\operatorname{Im}\left(\omega_{2} / \omega_{1}\right)\) in final equality</p>
+  </li>
+  <li>
+    <p>page 312, beneath \((8.4)\) and beneath \((8.5)\), should have \(\left(\tilde{\omega}_{1}, \tilde{\omega}_{2}\right)\) instead of \(\left(\omega_{1}^{\prime}, \omega_{2}^{\prime}\right)\)</p>
+  </li>
+  <li>
+    <p>page 316, beneath first paragraph, after first equality, \(\partial y^{\mu} / \partial y^{\prime \lambda}\) should be \(\partial y^{\mu} / \partial x^{\prime \lambda}\)</p>
+  </li>
+  <li>
+    <p>page 318, the matrix in (8.18) should be the transpose of that given</p>
+  </li>
+  <li>
+    <p>page 319, last line, should have \((1 / 2) \operatorname{dim}_{\mathbb{C}} T_{p} M^{\mathbb{C}}=\operatorname{dim}_{\mathbb{C}} M\left(\mathrm{NB}(1 / 2) \operatorname{dim}_{\mathbb{C}} M \notin \mathbb{Z}\right)\)</p>
+  </li>
+  <li>
+    <p>page 323, in proof of (b) of theorem 8.1, \(\partial \omega\) should be \(\partial \bar{\omega}\)</p>
+  </li>
+  <li>
+    <p>page 328, in \((8.68)\), should have \(\Gamma^{\bar{\lambda}}{}_{\overline{\kappa \nu}}\) in the second equality</p>
+  </li>
+  <li>
+    <p>page 330, in \((8.76 \mathrm{~d})\), should have \(R^{\bar{\xi}}{}_{ \bar{\lambda} \bar{\mu} \nu}\)</p>
+  </li>
+  <li>
+    <p>page 330, in \((8.79)\), should have \(\mathcal{R}=-\mathrm{i} \partial \bar{\partial} \log G\) for consistency with (8.78)</p>
+  </li>
+  <li>
+    <p>page 330, beneath \((8.79)\), should have \(\overline{\mathcal{R}}=+\mathrm{i} \overline{\partial \bar{\partial}} \log G\)</p>
+  </li>
+  <li>
+    <p>page 330, in proof of proposition \(8.2\), missing factors of \(-1\) due to the error in (8.79)</p>
+  </li>
+  <li>
+    <p>page 333, in \((8.86)\) there should be no \(\mathrm{i} / 2\) on the \(\mathrm{RHS}\) of the second equality</p>
+  </li>
+  <li>
+    <p>page 334, fact (a), note that there is no expert consensus on whether \(S^{6}\) is complex</p>
+  </li>
+  <li>
+    <p>page 334, fact (b), note that exceptionally \(S^{1} \times S^{1}\) \emph{is} Kähler</p>
+  </li>
+  <li>
+    <p>page 339, in section 8.6.2, should have \(\operatorname{Harm}_{\bar{\partial}}^{r, s}(M) \cap B_{\bar{\partial}}^{r, s}(M)=\{0\}\) instead of \(\varnothing\)</p>
+  </li>
+  <li>
+    <p>page 340, in proof of (b) of theorem \(8.10\), should have \(\omega \in H_{\bar{\partial}}^{r, s}(M)\)</p>
+  </li>
+  <li>
+    <p>page 340, number of independent Hodge numbers is \((1 / 4)(m+1)(m+2)\) if \(m\) is odd</p>
+  </li>
+</ul>
+
+<p>#Fibre Bundles</p>
+
+<ul>
+  <li>
+    <p>page 353, in last line, should have \(f^{\prime}=t_{j i}(p) f\)</p>
+  </li>
+  <li>
+    <p>page 357, in first paragraph, should have \(y=\psi(p)\) instead of \(y=\phi(p)\)</p>
+  </li>
+  <li>
+    <p>page 362, beneath \((9.36)\), should have \(\pi_{1}^{-1}(p)\) instead of \(\left(\pi \times \pi^{\prime}\right)^{-1}(p)\)</p>
+  </li>
+  <li>
+    <p>page 364, in second paragraph, should have \(s_{i}(p)\) instead of \(s_{1}(p)\)</p>
+  </li>
+  <li>
+    <p>page 365, final paragraph, the trivial bundle would be \(S^{4} \times \mathrm{SU}(2)\)</p>
+  </li>
+  <li>
+    <p>page 370, beneath \((9.66)\), would perhaps be clearer to write \((P \times F) / G\)</p>
+  </li>
+  <li>
+    <p>page 370, in example \(9.11, T_{p} M\) should be \(T M\)</p>
+  </li>
+</ul>
+
+<p>#Connections on Fibre Bundles</p>
+
+<ul>
+  <li>
+    <p>page 375, beneath \((10.1)\), should have that \(A^{\#}\) is tangent to \(G_{p}\) at \(u\)</p>
+  </li>
+  <li>
+    <p>page 378, first line, should have \(T_{\sigma_{i}(p)} P\) instead of \(T_{\sigma_{i}} P\)</p>
+  </li>
+  <li>
+    <p>page 378, first paragraph, should have \(g_{i} \equiv e\)</p>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>page 378, in verifying axiom (i), should have $$\mathrm{d} g_{i}(u \exp (t A)) /\left.\mathrm{d} t\right</td>
+          <td>_{t=0}$$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <p>page 388, beneath \((10.36)\), should have \(u \in P\)</p>
+  </li>
+  <li>
+    <p>page 390, \((10.43),(10.44)\) should have factors of \(1 / 2\) in front of the \(f_{\beta \gamma}{ }^{\alpha}\).</p>
+  </li>
+  <li>
+    <p>page 390, \((10.44)\) should have a minus sign in front of the second term</p>
+  </li>
+  <li>
+    <p>page 393*, in second line, should have \(E=P \times_{\rho} V\)</p>
+  </li>
+  <li>
+    <p>page 396, first paragraph, should have \(\mathrm{Ad}_{g} V=g V g^{-1}\)</p>
+  </li>
+  <li>
+    <p>page 396, in second line of \((10.68 \mathrm{~b}) \mathcal{A}\) should be \(A\) in accordance with (10.64)</p>
+  </li>
+  <li>
+    <p>page 397, in theorem \(10.6\) the \(\omega^{\gamma}{}_{\alpha}\) should all be \(\mathcal{A}^{\gamma}{}_{\alpha}\) in accordance with (10.56b)</p>
+  </li>
+  <li>
+    <p>page 398, the index \(\alpha\) at the end of the last and penultimate lines should be a \(\beta\)</p>
+  </li>
+  <li>
+    <p>page 400, \((10.85 \mathrm{~b})\) should have prefactor \(1 / 2\), not \(-1 / 4\), for consistency with (10.85a)</p>
+  </li>
+  <li>
+    <p>page 400, \((10.87)\) should have \(\pm 4 \mathbf{B} \cdot \mathbf{E}\) on \(\mathrm{RHS}\) ( \(\pm\) depending on convention)</p>
+  </li>
+  <li>
+    <p>page 401, \((10.91)\) differs in convention to \((10.9)\), which has \(t_{\mathrm{SN}}\) instead of \(t_{\mathrm{NS}}\)</p>
+  </li>
+  <li>
+    <p>page 403, \((10.96\) ) should have a squared modulus to ensure \(\mathcal{H}\) is real</p>
+  </li>
+  <li>
+    <p>page 405, conventions in \((10.108)\) and \((10.110)\) are atypical, see comments below</p>
+  </li>
+  <li>
+    <p>page 406, \((10.116)\) also differs in convention to (10.9)</p>
+  </li>
+  <li>
+    <p>page 406, in discussing the diffeomorphism \(\mathrm{SU}(2) \simeq S^{3}\), should have \(t^{4} I_{2}+i t^{i} \sigma_{i}\)</p>
+  </li>
+  <li>
+    <p>page 406, second paragraph should reference example \(9.8\) instead of example \(9.11\)</p>
+  </li>
+  <li>
+    <p>page 406, in \((10.117 \mathrm{~b}),(10.117 \mathrm{c})\), should have \(x^{4} I_{2}+\mathrm{i} x^{i} \sigma_{i}\)</p>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>page 412, in \((10.141)\) there should be a subscript \(i\) on $$</td>
+          <td>\mathbf{R}\rangle$$ at the end of the first line</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <p>page 413, seemingly major error in example \(10.7\), see comments below</p>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>page 414, beneath $$(10.148),</td>
+          <td>\Phi(\mathbf{R})\rangle\(should just be\)\Phi(\mathbf{R})$$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <p>page 414, in \((10.153)\), should have \(H(\mathbf{R})\) instead of \(\mathcal{H}(\mathbf{R})\)</p>
+  </li>
+  <li>
+    <p>page 415, in \((10.159 \mathrm{~b})\) there should be no loop on the integral</p>
+  </li>
+  <li>page 416, beneath \((10.167)\), charge should be \(+1 / 2\) for consistency with (10.89)</li>
+</ul>
+
+<p>#Characteristic Classes</p>
+
+<ul>
+  <li>
+    <p>page 420, beneath \((11.1)\), should have \(a_{p} \in M(k, \mathbb{C})\)</p>
+  </li>
+  <li>
+    <p>page 420, in the second line of (11.4) there should be no commas in the trace</p>
+  </li>
+  <li>
+    <p>page 421, beneath \((11.5)\), the tensor product \(\bigotimes\) should be a direct sum \(\bigoplus\)</p>
+  </li>
+  <li>
+    <p>page 422, first line, \(P(M, \mathbb{C})\) should be \(P(M, G)\)</p>
+  </li>
+  <li>
+    <p>page 425, beneath \((11.21)\), should have \(\operatorname{dim} M=2 m\)</p>
+  </li>
+  <li>
+    <p>page 425, final equation is missing a sum over permutations that cancels \(1 /(r+s)!\)</p>
+  </li>
+  <li>
+    <p>page 427, in \((11.29)\) the final term should be a product of \(x_{j}\), with no sums</p>
+  </li>
+  <li>
+    <p>page 428, in \((11.31)\) the two instances of \(\mathcal{A}\) should be \(A\)</p>
+  </li>
+  <li>
+    <p>page 431, the two instances of \(\chi\left(G_{k}\right)\) beneath \((11.45)\) should be \(\chi\left(L_{k}\right)\)</p>
+  </li>
+  <li>
+    <p>page 431, in \((11.46 \mathrm{~b})\) the direct sums should be ordinary sums</p>
+  </li>
+  <li>
+    <p>page 431, in \((11.47)\) the sum should run from \(j=0\)</p>
+  </li>
+  <li>
+    <p>page 434*, in \((11.62 \mathrm{~b})\), should have \(\operatorname{ch}(E)+\operatorname{ch}(F)\) on the \(\mathrm{RHS}\)</p>
+  </li>
+  <li>
+    <p>page 434*, in the expression for \(\operatorname{ch}(B \otimes C)\) the sum should run from \(m=0\)</p>
+  </li>
+  <li>
+    <p>page 434, final equation should have \((\mathrm{i} / 2 \pi)^{j}\)</p>
+  </li>
+  <li>
+    <p>page 435*, in (11.63) the RHS should be an ordinary sum instead of a direct sum</p>
+  </li>
+  <li>
+    <p>page 435, \((11.64)\) should be a sum \(\sum\) not a product \(\prod\)</p>
+  </li>
+  <li>
+    <p>page 438, in \((11.75 \mathrm{e})\) the second equality is true iff \(k\) is even</p>
+  </li>
+  <li>
+    <p>page 439, in \((11.79 \mathrm{~b})\) the \(\mathrm{RHS}\) isn’t a \(p\)-form if \(\mathcal{R}_{\alpha \beta}\) is defined as in above paragraph</p>
+  </li>
+  <li>
+    <p>page 439, beneath \((11.80)\), should have \(p_{l}(\mathcal{R})\) instead of \(p_{1}(\mathcal{R})\)</p>
+  </li>
+  <li>
+    <p>page 439, seemingly major error in example \(11.6\), see comments below</p>
+  </li>
+  <li>
+    <p>page 440, beneath \((11.83)\) there is a reference to seemingly unrelated (6.39)</p>
+  </li>
+  <li>
+    <p>page 442, first line, should have \(\lambda_{j}\) instead of \(\lambda_{i}\)</p>
+  </li>
+  <li>
+    <p>page 444, in \((11.107)\) there should be a 4 on the RHS instead of a 2</p>
+  </li>
+  <li>
+    <p>page 447, third paragraph, should have \(Q_{2 j+1}\left(g^{-1} \mathrm{~d} g, 0\right)\)</p>
+  </li>
+  <li>
+    <p>page 449, last line, product should run from \(j, k=0\) to \(r+2(\) and \(j \neq k)\)</p>
+  </li>
+</ul>
+
+<h1 id="index-theorems">Index Theorems</h1>
+
+<ul>
+  <li>
+    <p>page 453, second paragraph, the Dirac operator is a map \(\Gamma(M, E) \rightarrow \Gamma(M, E)\)</p>
+  </li>
+  <li>
+    <p>page 454, beneath \((12.2)\), should let \(E\), not \(F\), be a spin bundle over \(M\)</p>
+  </li>
+  <li>
+    <p>page 455, the indices on \(\xi\) in example \(12.1\) should all be downstairs, since \(\xi \in T_{p}^{*} M\)</p>
+  </li>
+  <li>
+    <p>page 458, beneath \((12.25)\), should have \(H^{r}(M ; \mathbb{R})\) instead of \(H_{r}(M ; \mathbb{R})\)</p>
+  </li>
+  <li>
+    <p>page 459, beneath \((12.29)\), the words \(\mathrm{RHS}\) and LHS should be interchanged</p>
+  </li>
+  <li>
+    <p>page 459, in \((12.32) A_{+}\)and \(A_{-}\)should be \(\Delta_{+}\)and \(\Delta_{-}\)respectively</p>
+  </li>
+  <li>
+    <p>page 460, seemingly major error with the de Rham complex, see comments below</p>
+  </li>
+  <li>
+    <p>page 463, in \((12.46)\) the \(\operatorname{sum} \sum\) should be a direct sum \(\bigoplus\)</p>
+  </li>
+  <li>
+    <p>page 463, in \((12.46)\) there is a missing factor of \((-1)^{m(m+1) / 2}\)</p>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>page 463, \((12.48)\) and \((12.50)\) should have $$\left.\right</td>
+          <td>_{\text {vol }}\(subscripts on the\)\mathrm{RHS}$$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <p>page 464, in \((12.51)\), should have \((1-g)\); in equation beneath, should have \((2-2 g)\)</p>
+  </li>
+  <li>
+    <p>page 464, in \((12.51)\), should have \(\operatorname{tr} \mathcal{F}\) instead of \(\mathcal{F}\)</p>
+  </li>
+  <li>
+    <p>page 470, missing factors of \(-1\) in \((12.83)\), see comments below</p>
+  </li>
+  <li>
+    <p>page 471, in (12.84) \(\mathcal{D}_{+}\)should be \(\mathcal{P}_{+}\)</p>
+  </li>
+  <li>
+    <p>page 472, the unnumbered equation applies when the connection is flat, with \(\omega_{\mu}=0\)</p>
+  </li>
+  <li>
+    <p>page 472, \(\bar{\sigma}_{\mu \nu}\) should be defined as \((1 / 4 \mathrm{i})\left(\bar{\alpha}^{\mu} \alpha^{\nu}-\bar{\alpha}^{\nu} \alpha^{\mu}\right)\)</p>
+  </li>
+  <li>
+    <p>page 472, penultimate line of section \(12.6\) should read \(\bar{\sigma}^{\mu \nu}=-* \bar{\sigma}^{\mu \nu}\)</p>
+  </li>
+  <li>
+    <p>page 474, the first line should have \(\tilde{h}(t)\) rather than \(h(t)\)</p>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>page 474, above \((12.105)\) and in \((12.106 \mathrm{~b})\) the \(\mid \mu), \mid m)\) should be $$</td>
+          <td>\mu\rangle,</td>
+          <td>m\rangle$$</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <p>page 474, the exponents in (12.106) are missing a factor \(t\)</p>
+  </li>
+  <li>
+    <p>page 476, \((12.114)\) is valid providing \(\langle 0, i \mid f\rangle=0\)</p>
+  </li>
+  <li>
+    <p>page 478, in \((12.122 \mathrm{a})\) there should be a \(\otimes\) between \(\sigma_{1}\) and \(\partial / \partial t\)</p>
+  </li>
+  <li>
+    <p>page 478, the definitions of \(D\) and \(D^{\dagger}\) in \((12.122 \mathrm{~b})\) should be interchanged</p>
+  </li>
+  <li>page 481, in second equation, should have \(d_{n}\) instead of \(b_{n}(0)\)</li>
+</ul>
+
+<h1 id="comments">COMMENTS</h1>
+
+<ul>
+  <li>{\bf Page 38:} if the infinite product in (1.164) is evaluated correctly, it yields the wrong partition function \(\sqrt{\pi} / 2 \sinh (\beta \omega / 2)\). Equivalently, the infinite product formula deduced directly above \((1.165)\) is in fact false. This factor of \(\pi\) can be traced back to the numerical factors ignored on page 36. The determinant in (1.154) should contain a factor \(m / \pi\) (indeed, there are many missing factors of \(m\) throughout Method 2 ). This in turn modifies the first infinite product in \((1.156)\), so that \((1.160)\) should read</li>
+</ul>
+
+<p>[\zeta_{-(m/\pi)\mathrm{d}^2/\mathrm{d}\tau^2}(s) = \sum_{n \geq 1} \left(\frac{mn}{\beta}\right)^{-2s} = \left(\frac{\beta}{m}\right)^{2s}\zeta(2s).]</p>
+
+<p>Following this through puts a factor of \(\pi / m\) in the first bracket of (1.164), which cancels the \(\pi\) in the second bracket (the classical action), as well as the factor \(m\) that should have been in the second bracket, to yield the correct partition function. With (1.164) corrected in this way, the derived formula for the infinite product directly beneath it has no factor of \(\pi\) in the numerator, as appropriate. Finally, there is also a simple typo in \((1.164)\) - the \(\beta \pi\) in the curly brackets should be \(\beta \omega\).</p>
+
+<ul>
+  <li>{\bf  Page 44:} I think the change of variables at the bottom of the page should instead be</li>
+</ul>
+
+\[\eta_{k}=\left(\theta_{k}+\mathrm{i} \theta_{k}^{\prime}\right) / \sqrt{2}, \quad \eta_{k}^{*}=\left(\theta_{k}-\mathrm{i} \theta_{k}^{\prime}\right) / \sqrt{2}\]
+
+<p>This makes the equation on the following page correct up to terms symmetric in \(i, j\), which vanish on contraction with \(a_{i j}\) to yield the correct final expression for the Pfaffian. This change of variables also yields a Jacobian \((-1)^{n}\) which cancels the factor \((-1)^{n^{2}}\).</p>
+
+<ul>
+  <li>
+    <p>{\bf  Page 137*:} in theorem \(4.7\) we should talk of a maximal tree rather than \emph{the} maximal tree, since a maximal tree is far from unique.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 234:} in the proof of (a) of corollary 6.1, we should have that the intersection of the kernels of the \(\Lambda\left(\left[c_{i}\right], \cdot\right)\) is \(\{0\}-\) each individually can have non-trivial kernel.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 327:} in (8.61) we should view \(\tilde{V}^{\mu}(z)\) as a function of \(z\) and \(\bar{z}\), and consider a perturbation just of \(z\); in general the \(\tilde{V}^{\mu}\) are not holomorphic functions. We could then also consider \(\tilde{V}^{\mu}(z, \bar{z}+\Delta \bar{z})\) - if we choose our connection to have no mixed indices, then for \(V^{\mu}\) a holomorphic vector field, this is just equal to \(V^{\mu}(z, \bar{z})\).</p>
+  </li>
+  <li>
+    <p>{\bf  Page 333:} example \(8.7\) specifically refers to \emph{orientable} complex manifolds. But we don’t need this condition, since all complex manifolds are orientable.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 334:} in defining a Hermitian metric from \(\Omega\), we need to show also that the metric is symmetric. This can be shown to follow from the \(J\)-invariance of any (1,1)-form. The symmetry of the metric is then necessary to prove the Hermiticity of \(g\).</p>
+  </li>
+  <li>
+    <p>{\bf  Page 357:} in the definition of a vector bundle, it is stated that “transition functions belong to \(\mathrm{GL}(k, \mathbb{R})\), since it maps a vector space onto another vector space”. The definition of a fibre bundle only requires that this map is a diffeomorphism, however; the linearity of the map is an additional part of the definition of a vector bundle.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 370:} in defining associated vector bundles we should talk of a \(k\)-dimensional representation of \(G\) rather than \emph{the} \(k\)-dimensional representation, since there are generally many representations of a group of a given dimension.</p>
+
+    <ul>
+      <li>{\bf Page 371*:} in \((9.72)\) the structure group should be \(\mathrm{SL}(2, \mathbb{C})\) instead of the direct sum \(\mathrm{SL}(2, \mathbb{C}) \oplus \overline{\mathrm{SL}(2, \mathbb{C})}\) - a Dirac spinor does transform under a direct sum representation (note that the fibre is \(\left.\mathbb{C}^{4}\right)\), but a direct sum representation of the group \(\mathrm{SL}(2, \mathbb{C})\). Further, to be completely clear, note that Weyl and Dirac spinors are sections of vector bundles associated to the \(\operatorname{SPIN}(k)\) bundle (itself ‘lifted’ from the orthonormal frame bundle), as opposed to sections of the \(\operatorname{SPIN}(k)\) bundle itself.</li>
+    </ul>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>{\bf  Page 405:} in (10.108) there should be a prefactor of \(-1 / 2\), not \(-1 / 4\), in the first equality, as well as an integration measure $$\sqrt{</td>
+          <td>g</td>
+          <td>} \mathrm{d}^{4} x\(, and prefactor of\)-1\(, not\)1 / 2\(, in the second equality (cf. equations\)(1.268)\(and\)(10.85 a)$$ ). This follows from</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+\[\mathcal{F} \wedge * \mathcal{F}=\frac{1}{2} \mathcal{F}_{\mu \nu} \mathcal{F}^{\mu \nu}(\mathrm{vol}) \quad \text { and } \quad \operatorname{tr}\left(T_{a} T_{b}\right)=-\frac{1}{2} \delta_{a b}\]
+
+<p>Equation (10.110) is modified accordingly, retaining the extra sign from the Wick rotation.</p>
+
+<ul>
+  <li>
+    <p>{\bf  Page 413:} in (10.147) we seek eigenstates of the total Hamiltonian, including both fast and slow degrees of freedom. The energies should thus not be labelled by \(\mathbf{R}\), since the eigenstates are functions of \(\mathbf{R}\). Further, though the energy is labelled by an integer, this need not be the same integer \(n\) as that specifying the eigenstate of the fast degrees of freedom. Thus \(E_{n}(\mathbf{R})\) should more appropriately be \(E_{m}\).</p>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>{\bf  Page 413:} in deriving (10.147) from the equation above it, we need to turn $$\left\langle\mathbf{R}\left</td>
+          <td>\nabla_{\mathbf{R}}^{2}\right</td>
+          <td>\mathbf{R}\right\rangle\(into\)\left(\left\langle\mathbf{R}\left</td>
+          <td>\nabla_{\mathbf{R}}\right</td>
+          <td>\mathbf{R}\right\rangle\right)^{2}\(. This involves inserting a resolution of the identity between the two derivatives. According to\)(10.148)\(, this amounts merely to inserting\)</td>
+          <td>\mathbf{R}\rangle\langle\mathbf{R}</td>
+          <td>$$, though this is in fact the \emph{adiabatic} approximation and not the \emph{Born-Oppenheimer} approximation.</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<p>In inserting this operator, however, we generate two terms, by the Leibniz rule. One is the desired \(\mathcal{A}(\mathbf{R})^{2}\) term. The other is a term \(\nabla_{\mathbf{R}} \cdot \mathcal{A}(\mathbf{R})\), which is missing from \((10.147)\). In fact, the inclusion of this term is necessary to ensure (10.149) is correct (and it is indeed correct), since upon expanding the brackets we see that (10.149) includes the very derivative of \(\mathcal{A}(\mathbf{R})\) that ought to have been present in (10.147).</p>
+
+<ul>
+  <li>
+    <p>{\bf  Page 435:} the comments at the very end of section \(11.3 .2\) seem misleading. Characteristic classes themselves certainly \emph{can} differentiate between two vector bundles of the same space and the same fibre dimension. This is precisely the point of characteristic classes - they classify different bundles with a given fibre over a given base space. Indeed, if the \emph{integral} of a characteristic class over the base space can distinguish different bundles, then the classes themselves must also be able to also.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 439:} the errors in example \(7.14\) have propagated here. Firstly note that \(g_{\theta \theta} \neq \sin ^{2} \theta\) as claimed. Further, the trace of \(\mathcal{R}^{2}\) should be a trace over Lie algebra indices, that is,</p>
+  </li>
+</ul>
+
+<p>[
+\operatorname{tr}\left(\mathcal{R}^{2}\right)=\mathcal{R}^{\alpha}{}<em>{\beta} \mathcal{R}^{\beta}{}</em>{\alpha} \quad \text { where } \quad \mathcal{R}^{\alpha}{}<em>{\beta}=\frac{1}{2} R^{\alpha}{}</em>{\beta \mu \nu} \theta^{\mu} \wedge \theta^{\nu}
+]</p>
+
+<p>as in (7.146b), and not as in the paragraph at the top of the page. In computing the trace, we should not lower the indices on \(\mathcal{R}^{\alpha}{}_{\beta}\), as in this example and in (11.79b). The error in \(R^{\theta}{}_{\phi \theta \phi}\) from example \(7.14\) (missing a factor \(\sin ^{3} \theta\) ), the error in \(g_{\theta \theta}\) (an erroneous factor \(\sin ^{2} \theta\) ), and the error in lowering a \(\phi\) and a \(\theta\) index (an erroneous factor \(\sin ^{2} \theta\) in \(\left.\mathcal{R}_{\theta \phi} \mathcal{R}_{\phi \theta}\right)\) conspire so that the expression for \(\operatorname{tr}\left(\mathcal{R}^{2}\right)\) is in fact correct.</p>
+
+<ul>
+  <li>
+    <p>{\bf Page 445:} if we include \(\delta t\) both in the definition of \(l_{t} \mathcal{F}_{t}\) in \((11.109)\) and in the definition of the homotopy operator \(k_{01}\) in \((11.113)\), we will get two factors of \(\delta t\) in our integrals, such as in the second line of (11.114), which is nonsense.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 448:} the Bianchi identity (11.124) should hold off-shell, and indeed it does from the definition of \(* F\) directly above. Invoking the equations of motion isn’t necessary.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 455:} there is one caveat in exercise 12.1. We should have that \(D\) is elliptic if and only if \(\sigma(D, \xi)=\pm 1\) for at least one choice of sign. For instance, consider the Laplacian multiplied by \(-1\). This is surely elliptic, but \(\sigma(D, \xi)=1\) has empty solution set.</p>
+  </li>
+  <li>
+    <p>{\bf  Page 460:} the symbol \(\sigma(\mathrm{d}, \xi)=\xi \wedge\) obtained in (12.36) is \emph{not} non-singular for \(\xi \neq 0\) as claimed (indeed, the fibre dimensions \(k\) and \(k^{\prime}\) are generally different), and \(\mathrm{d}\) is \emph{not} an elliptic operator. To apply the index theorem, we should consider the operator \(\mathrm{d}+\mathrm{d}^{\dagger}\), which is elliptic, and the two-term complex \(\Omega^{\pm}(M)\), as in example \(12.2\). As argued in section 12.1.3, this complex has the same index as the de Rham complex.</p>
+  </li>
+</ul>
+
+<p>Since elliptic operators on a compact manifold are Fredholm (see section 12.1.2), we don’t need to worry about restricting \(\Omega^{r}(M)\) to \(H^{r}(M)\), as stated at the bottom of page 460 , since \(\mathrm{d}+\mathrm{d}^{\dagger}\) has finite-dimensional kernel and cokernel when acting on \(\Omega^{\pm}(M)\). This is just as well, since the AS index theorem as applied in (12.38) involves the characteristic classes of the \(r\)-form bundle \(\wedge^{r} T^{*} M^{\mathbb{C}}\), not some bundle of closed forms.</p>
+
+<p>Put another way, the defining feature of an elliptic complex is not that the differential operators involved are elliptic, as suggested in section 12.1.3. Instead, the defining feature is that the symbol complex is \emph{exact}, which is to say that the image of \(\sigma\left(\mathrm{D}_{r}, \xi\right)\) coincides with the kernel of \(\sigma\left(\mathrm{D}_{r+1}, \xi\right)\). This can be shown to hold for the map \(\xi \wedge\). Such a definition is motivated by the (non-trivial) result that a complex \((E, D)\) is elliptic if and only if the operator \(\mathrm{D}+\mathrm{D}^{\dagger}\), which acts on the even and odd bundles of (12.21), is elliptic. These same comments apply to the Dolbeault complex and equation (12.45).</p>
+
+<ul>
+  <li>
+    <p>{\bf Page 463:} the first line would read better as ‘take a \((0, r)\)-form \(\omega \in \Omega_{p}^{0, r}(M)\) ‘. Firstly, \(\omega\) is not a section but rather the value of a section \(\tilde{s}\) at the point \(p\). Secondly, the words ‘holomorphic’ and ‘anti-holormophic’ as applied to differential forms typically concern the derivatives of the components, as in definition 8.3. Here, however, the word is being used merely to identify \(\omega\) as a \((0, r)\)-form, as opposed to a general r-form. This usage is analogous to that in the context of tangent vectors; in this case, ‘holomorphic’ refers to the subspace of the tangent space the vector belongs to (see section 8.2.3).</p>
+  </li>
+  <li>
+    <p>{\bf  Page 470:} in the expression for the topological index in (12.83) there is a missing factor of \((-1)^{m(m+1) / 2}\) on the \(\mathrm{RHS}\) (cf. (12.33)). Likewise, on page 467 , in the unnumbered equation for the topological index of the signature complex, I believe the factor \((-1)^{l}\) should instead be \((-1)^{l(2 l+1)}\) (cf. \((12.38)\) ). Both of these factors are inconsequential, however, since both indices are zero unless \(m=0 \bmod 4\).</p>
+  </li>
+  <li>
+    <p>{\bf  Page 496:} in (12.183) it is stated that \(e^{-\beta \omega / 2} \sinh (\beta \omega / 2)\) tends to one as \(\omega\) goes to zero. This is plainly false. Indeed it appears that the determinant of \(\mathrm{d} / \mathrm{d} t\) is in fact zero. The only resolution I can see is to use the independence of the index of \(\beta\) to take the limit \(\beta \rightarrow \infty\) before taking \(\omega \rightarrow 0\), which gives the desired limit for the determinant.</p>
+  </li>
+</ul>]]></content><author><name></name></author><category term="drafts," /><category term="publications" /><category term="math," /><category term="physics," /><category term="errata" /><summary type="html"><![CDATA[Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara]]></summary></entry><entry><title type="html">Emacs config that works well</title><link href="https://loreno-heer.github.io/blog/2022/emacs-config/" rel="alternate" type="text/html" title="Emacs config that works well" /><published>2022-04-16T15:09:00+00:00</published><updated>2022-04-16T15:09:00+00:00</updated><id>https://loreno-heer.github.io/blog/2022/emacs-config</id><content type="html" xml:base="https://loreno-heer.github.io/blog/2022/emacs-config/"><![CDATA[<h1 id="setup-emacs-for-latex-and-coding">Setup Emacs for LaTeX and Coding</h1>
 
 <p>This is just my commented init file for emacs. I keep it here as a backup in case I reinstall emacs on another machine.</p>
 
@@ -267,7 +994,7 @@ sequenceDiagram
 </code></pre></div></div>
 
 <div class="jekyll-diagrams diagrams mermaid">
-  <svg id="mermaid-1683275493316" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:450px;" viewBox="-50 -10 450 231"><style>#mermaid-1683275493316 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1683275493316 .node circle,#mermaid-1683275493316 .node ellipse,#mermaid-1683275493316 .node polygon,#mermaid-1683275493316 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1683275493316 .node.clickable{cursor:pointer}#mermaid-1683275493316 .arrowheadPath{fill:#333}#mermaid-1683275493316 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1683275493316 .edgeLabel{background-color:#e8e8e8}#mermaid-1683275493316 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1683275493316 .cluster text{fill:#333}#mermaid-1683275493316 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1683275493316 .actor{stroke:#ccf;fill:#ececff}#mermaid-1683275493316 text.actor{fill:#000;stroke:none}#mermaid-1683275493316 .actor-line{stroke:grey}#mermaid-1683275493316 .messageLine0{marker-end:"url(#arrowhead)"}#mermaid-1683275493316 .messageLine0,#mermaid-1683275493316 .messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#mermaid-1683275493316 #arrowhead{fill:#333}#mermaid-1683275493316 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1683275493316 .messageText{fill:#333;stroke:none}#mermaid-1683275493316 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1683275493316 .labelText,#mermaid-1683275493316 .loopText{fill:#000;stroke:none}#mermaid-1683275493316 .loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#ccf}#mermaid-1683275493316 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1683275493316 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1683275493316 .section{stroke:none;opacity:.2}#mermaid-1683275493316 .section0{fill:rgba(102,102,255,.49)}#mermaid-1683275493316 .section2{fill:#fff400}#mermaid-1683275493316 .section1,#mermaid-1683275493316 .section3{fill:#fff;opacity:.2}#mermaid-1683275493316 .sectionTitle0,#mermaid-1683275493316 .sectionTitle1,#mermaid-1683275493316 .sectionTitle2,#mermaid-1683275493316 .sectionTitle3{fill:#333}#mermaid-1683275493316 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1683275493316 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1683275493316 .grid path{stroke-width:0}#mermaid-1683275493316 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1683275493316 .task{stroke-width:2}#mermaid-1683275493316 .taskText{text-anchor:middle;font-size:11px}#mermaid-1683275493316 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1683275493316 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1683275493316 .taskText0,#mermaid-1683275493316 .taskText1,#mermaid-1683275493316 .taskText2,#mermaid-1683275493316 .taskText3{fill:#fff}#mermaid-1683275493316 .task0,#mermaid-1683275493316 .task1,#mermaid-1683275493316 .task2,#mermaid-1683275493316 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1683275493316 .taskTextOutside0,#mermaid-1683275493316 .taskTextOutside1,#mermaid-1683275493316 .taskTextOutside2,#mermaid-1683275493316 .taskTextOutside3{fill:#000}#mermaid-1683275493316 .active0,#mermaid-1683275493316 .active1,#mermaid-1683275493316 .active2,#mermaid-1683275493316 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1683275493316 .activeText0,#mermaid-1683275493316 .activeText1,#mermaid-1683275493316 .activeText2,#mermaid-1683275493316 .activeText3{fill:#000!important}#mermaid-1683275493316 .done0,#mermaid-1683275493316 .done1,#mermaid-1683275493316 .done2,#mermaid-1683275493316 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1683275493316 .doneText0,#mermaid-1683275493316 .doneText1,#mermaid-1683275493316 .doneText2,#mermaid-1683275493316 .doneText3{fill:#000!important}#mermaid-1683275493316 .crit0,#mermaid-1683275493316 .crit1,#mermaid-1683275493316 .crit2,#mermaid-1683275493316 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1683275493316 .activeCrit0,#mermaid-1683275493316 .activeCrit1,#mermaid-1683275493316 .activeCrit2,#mermaid-1683275493316 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1683275493316 .doneCrit0,#mermaid-1683275493316 .doneCrit1,#mermaid-1683275493316 .doneCrit2,#mermaid-1683275493316 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1683275493316 .activeCritText0,#mermaid-1683275493316 .activeCritText1,#mermaid-1683275493316 .activeCritText2,#mermaid-1683275493316 .activeCritText3,#mermaid-1683275493316 .doneCritText0,#mermaid-1683275493316 .doneCritText1,#mermaid-1683275493316 .doneCritText2,#mermaid-1683275493316 .doneCritText3{fill:#000!important}#mermaid-1683275493316 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1683275493316 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1683275493316 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1683275493316 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1683275493316 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1683275493316 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1683275493316 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1683275493316 #compositionEnd,#mermaid-1683275493316 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1683275493316 #aggregationEnd,#mermaid-1683275493316 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1683275493316 #dependencyEnd,#mermaid-1683275493316 #dependencyStart,#mermaid-1683275493316 #extensionEnd,#mermaid-1683275493316 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1683275493316 .branch-label,#mermaid-1683275493316 .commit-id,#mermaid-1683275493316 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1683275493316 {
+  <svg id="mermaid-1683276338076" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:450px;" viewBox="-50 -10 450 231"><style>#mermaid-1683276338076 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1683276338076 .node circle,#mermaid-1683276338076 .node ellipse,#mermaid-1683276338076 .node polygon,#mermaid-1683276338076 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1683276338076 .node.clickable{cursor:pointer}#mermaid-1683276338076 .arrowheadPath{fill:#333}#mermaid-1683276338076 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1683276338076 .edgeLabel{background-color:#e8e8e8}#mermaid-1683276338076 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1683276338076 .cluster text{fill:#333}#mermaid-1683276338076 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1683276338076 .actor{stroke:#ccf;fill:#ececff}#mermaid-1683276338076 text.actor{fill:#000;stroke:none}#mermaid-1683276338076 .actor-line{stroke:grey}#mermaid-1683276338076 .messageLine0{marker-end:"url(#arrowhead)"}#mermaid-1683276338076 .messageLine0,#mermaid-1683276338076 .messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#mermaid-1683276338076 #arrowhead{fill:#333}#mermaid-1683276338076 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1683276338076 .messageText{fill:#333;stroke:none}#mermaid-1683276338076 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1683276338076 .labelText,#mermaid-1683276338076 .loopText{fill:#000;stroke:none}#mermaid-1683276338076 .loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#ccf}#mermaid-1683276338076 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1683276338076 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1683276338076 .section{stroke:none;opacity:.2}#mermaid-1683276338076 .section0{fill:rgba(102,102,255,.49)}#mermaid-1683276338076 .section2{fill:#fff400}#mermaid-1683276338076 .section1,#mermaid-1683276338076 .section3{fill:#fff;opacity:.2}#mermaid-1683276338076 .sectionTitle0,#mermaid-1683276338076 .sectionTitle1,#mermaid-1683276338076 .sectionTitle2,#mermaid-1683276338076 .sectionTitle3{fill:#333}#mermaid-1683276338076 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1683276338076 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1683276338076 .grid path{stroke-width:0}#mermaid-1683276338076 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1683276338076 .task{stroke-width:2}#mermaid-1683276338076 .taskText{text-anchor:middle;font-size:11px}#mermaid-1683276338076 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1683276338076 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1683276338076 .taskText0,#mermaid-1683276338076 .taskText1,#mermaid-1683276338076 .taskText2,#mermaid-1683276338076 .taskText3{fill:#fff}#mermaid-1683276338076 .task0,#mermaid-1683276338076 .task1,#mermaid-1683276338076 .task2,#mermaid-1683276338076 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1683276338076 .taskTextOutside0,#mermaid-1683276338076 .taskTextOutside1,#mermaid-1683276338076 .taskTextOutside2,#mermaid-1683276338076 .taskTextOutside3{fill:#000}#mermaid-1683276338076 .active0,#mermaid-1683276338076 .active1,#mermaid-1683276338076 .active2,#mermaid-1683276338076 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1683276338076 .activeText0,#mermaid-1683276338076 .activeText1,#mermaid-1683276338076 .activeText2,#mermaid-1683276338076 .activeText3{fill:#000!important}#mermaid-1683276338076 .done0,#mermaid-1683276338076 .done1,#mermaid-1683276338076 .done2,#mermaid-1683276338076 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1683276338076 .doneText0,#mermaid-1683276338076 .doneText1,#mermaid-1683276338076 .doneText2,#mermaid-1683276338076 .doneText3{fill:#000!important}#mermaid-1683276338076 .crit0,#mermaid-1683276338076 .crit1,#mermaid-1683276338076 .crit2,#mermaid-1683276338076 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1683276338076 .activeCrit0,#mermaid-1683276338076 .activeCrit1,#mermaid-1683276338076 .activeCrit2,#mermaid-1683276338076 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1683276338076 .doneCrit0,#mermaid-1683276338076 .doneCrit1,#mermaid-1683276338076 .doneCrit2,#mermaid-1683276338076 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1683276338076 .activeCritText0,#mermaid-1683276338076 .activeCritText1,#mermaid-1683276338076 .activeCritText2,#mermaid-1683276338076 .activeCritText3,#mermaid-1683276338076 .doneCritText0,#mermaid-1683276338076 .doneCritText1,#mermaid-1683276338076 .doneCritText2,#mermaid-1683276338076 .doneCritText3{fill:#000!important}#mermaid-1683276338076 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1683276338076 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1683276338076 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1683276338076 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1683276338076 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1683276338076 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1683276338076 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1683276338076 #compositionEnd,#mermaid-1683276338076 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1683276338076 #aggregationEnd,#mermaid-1683276338076 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1683276338076 #dependencyEnd,#mermaid-1683276338076 #dependencyStart,#mermaid-1683276338076 #extensionEnd,#mermaid-1683276338076 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1683276338076 .branch-label,#mermaid-1683276338076 .commit-id,#mermaid-1683276338076 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1683276338076 {
     color: rgb(0, 0, 0);
     font: normal normal 400 normal 16px / normal "Times New Roman";
   }</style><g></g><g><line id="actor0" x1="75" y1="5" x2="75" y2="220" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="0" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">John</tspan></text></g><g><line id="actor1" x1="275" y1="5" x2="275" y2="220" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="200" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Alice</tspan></text></g><defs><marker id="arrowhead" refX="5" refY="2" markerWidth="6" markerHeight="4" orient="auto"><path d="M 0,0 V 4 L6,2 Z"></path></marker></defs><defs><marker id="crosshead" markerWidth="15" markerHeight="8" orient="auto" refX="16" refY="4"><path fill="black" stroke="#000000" stroke-width="1px" d="M 9,2 V 6 L16,4 Z" style="stroke-dasharray: 0, 0;"></path><path fill="none" stroke="#000000" stroke-width="1px" d="M 0,1 L 6,7 M 6,1 L 0,7" style="stroke-dasharray: 0, 0;"></path></marker></defs><g><text x="175" y="93" class="messageText" style="text-anchor: middle;">Hello John, how are you?</text><line x1="275" y1="100" x2="75" y2="100" class="messageLine0" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="fill: none;"></line></g><g><text x="175" y="128" class="messageText" style="text-anchor: middle;">Great!</text><line x1="75" y1="135" x2="275" y2="135" class="messageLine1" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="stroke-dasharray: 3, 3; fill: none;"></line></g><g><rect x="0" y="155" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="187.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">John</tspan></text></g><g><rect x="200" y="155" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="187.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Alice</tspan></text></g></svg>
@@ -591,19 +1318,4 @@ This line is only separated by a single newline, so it’s a separate line in th
   <li>BaseURL :</li>
   <li>Archived :</li>
   <li>Contributors :</li>
-</ul>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[a quick run down on accessing github metadata.]]></summary></entry><entry><title type="html">a post with twitter</title><link href="https://loreno-heer.github.io/blog/2020/twitter/" rel="alternate" type="text/html" title="a post with twitter" /><published>2020-09-28T15:12:00+00:00</published><updated>2020-09-28T15:12:00+00:00</updated><id>https://loreno-heer.github.io/blog/2020/twitter</id><content type="html" xml:base="https://loreno-heer.github.io/blog/2020/twitter/"><![CDATA[<p>A sample blog page that demonstrates the inclusion of Tweets/Timelines/etc.</p>
-
-<h1 id="tweet">Tweet</h1>
-<p>An example of displaying a tweet:</p>
-<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="sv" dir="ltr">jekyll-twitter-plugin (1.0.0): A Liquid tag plugin for Jekyll that renders Tweets from Twitter API <a href="http://t.co/m4EIQPM9h4">http://t.co/m4EIQPM9h4</a></p>&mdash; RubyGems (@rubygems) <a href="https://twitter.com/rubygems/status/518821243320287232?ref_src=twsrc%5Etfw">October 5, 2014</a></blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-<h1 id="timeline">Timeline</h1>
-<p>An example of pulling from a timeline:</p>
-<div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="500" data-tweet-limit="3" href="https://twitter.com/jekyllrb?ref_src=twsrc%5Etfw">Tweets by jekyllrb</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-<h1 id="additional-details">Additional Details</h1>
-<p>For more details on using the plugin visit: <a href="https://github.com/rob-murray/jekyll-twitter-plugin">jekyll-twitter-plugin</a></p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><category term="formatting" /><summary type="html"><![CDATA[an example of a blog post with twitter]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[a quick run down on accessing github metadata.]]></summary></entry></feed>
