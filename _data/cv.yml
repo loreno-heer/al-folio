@@ -106,26 +106,37 @@
   type: time_table  
   contents:
     - title: "Exercises Classes: UZH HS2020 MAT101: (Python) Programming, <a href="https://loreno-heer.github.io/courses/HS2020MAT101/">Donkey Kong Project</a>"
+      year: Fall 2020
       institution: University of Zurich, Zurich, Switzerland
     - title: "Exercises Classes: UZH FS2020 MAT184: Analysis für die Chemie"
+      year: Spring 2020
       institution: University of Zurich, Zurich, Switzerland
     - title: "Exercises Classes: UZH HS2019 MAT101: (Python) Programming, <a href="https://loreno-heer.github.io/courses/HS2019MAT101/">Tetris Project</a>"
+      year: Fall 2019
       institution: University of Zurich, Zurich, Switzerland
     - title: "Exercises Classes: UZH FS2019 MAT184: Analysis für die Chemie"
+      year: Spring 2019
       institution: University of Zurich, Zurich, Switzerland
     - title: "Exercises Classes: UZH HS2018 MAT101: (Python) Programming, <a href="https://loreno-heer.github.io/courses/HS2018MAT101/">Flappy Bird Project</a>"
+      year: Fall 2018
       institution: University of Zurich, Zurich, Switzerland
     - title: "Exercises Classes: UZH FS2018 MAT823: Introduction to Computability and Complexity Theory
+      year: Spring 2018
       institution: University of Zurich, Zurich, Switzerland
     - title: "Exercises Classes: UZH HS2017 MAT101: (Python) Programming, <a href="https://loreno-heer.github.io/courses/HS2017MAT101/">Bitcoin Project</a>"
+      year: Fall 2018
       institution: University of Zurich, Zurich, Switzerland
     - title: "Exercises Classes: UZH FS2017 MAT112: Lineare Algebra II"
+      year: Spring 2017
       institution: University of Zurich, Zurich, Switzerland
     - title: "Exercises Classes: UZH HS2016 MAT101: (Python) Programming, <a href="https://loreno-heer.github.io/courses/HS2016MAT101/">Steganography Project</a>"
+      year: Fall 2017
       institution: University of Zurich, Zurich, Switzerland
     - title: "Exercises Classes: UZH FS2016 MAT153: Zahlentheorie"
+      year: Spring 2016
       institution: University of Zurich, Zurich, Switzerland
     - title: "Exercises Classes: UZH FS2016 MAT151: Grundbegriffe der Mathematik"
+      year: Fall 2017
       institution: University of Zurich, Zurich, Switzerland
 
   
