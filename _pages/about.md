@@ -27,7 +27,6 @@ My current research centers on the study of the conformal horizon of de Sitter s
 with a positive cosmological constant and in particular the study of gravitational waves in this setting.
 
 
-
 # Publications
 - PhD Thesis (2021) [doi:10.5167/uzh-217863](https://doi.org/10.5167/uzh-217863) [full text](articles/thesis.pdf)
 - Heer, L. (2017). Some Invariant Properties of Quasi-Möbius Maps. Analysis and Geometry in Metric Spaces, 5(1), pp. 69-77. [doi:10.1515/agms-2017-0004](https://doi.org/10.1515/agms-2017-0004) [full text](https://www.degruyter.com/view/j/agms.2017.5.issue-1/agms-2017-0004/agms-2017-0004.xml)
