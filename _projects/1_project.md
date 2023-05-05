@@ -4,7 +4,7 @@ title: website under construction
 description: work in progress website
 img: assets/img/12.jpg
 importance: 1
-category: math
+category: maths
 ---
 
 Every project has a beautiful feature showcase page.
