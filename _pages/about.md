@@ -37,24 +37,6 @@ with a positive cosmological constant and in particular the study of gravitation
 ## Drafts
 - Errata for Geometry, Topology and Physics (Second Edition) by Mikio Nakahara [pdf](notes/nakahara-errata.pdf) ([latex source](notes/nakahara-errata.tex)) (last updated: 17. April 2022)
 
-# Teaching
-## Exercise Classes
-- UZH HS2020 MAT101: (Python) Programming, [Donkey Kong Project](courses/HS2020MAT101)
-- UZH FS2020 MAT184: Analysis für die Chemie
-- UZH HS2019 MAT101: (Python) Programming, [Tetris Project](courses/HS2019MAT101)
-- UZH FS2019 MAT184: Analysis für die Chemie
-- UZH HS2018 MAT101: (Python) Programming, [Flappy Bird Project](courses/HS2018MAT101)
-- UZH FS2018 MAT823: Introduction to Computability and Complexity Theory
-- UZH HS2017 MAT101: (Python) Programming, [Bitcoin Project](courses/HS2017MAT101)
-- UZH FS2017 MAT112: Lineare Algebra II
-- UZH HS2016 MAT101: (Python) Programming, [Steganography Project](courses/HS2016MAT101)
-- UZH FS2016 MAT153: Zahlentheorie
-- UZH FS2016 MAT151: Grundbegriffe der Mathematik
-
-## MSc Thesis Co-Advisor
-
-- FS2018: Andresen, Silke Berit, Low-dimensional Boundaries of CAT(0) Spaces
-
 # Activities and Memberships
 Referee for [*Journal of Mathematical Analysis and Applications*](https://www.sciencedirect.com/journal/journal-of-mathematical-analysis-and-applications). Reviewer for [*Zentralblatt MATH*](https://zbmath.org/?q=loreno+heer) and [*AMS MathSciNet*](https://mathscinet.ams.org/mathscinet/). Member of the [*Swiss Mathematical Society*](https://www.math.ch/) and  [*American Mathematical Society*](https://www.ams.org/).
 
