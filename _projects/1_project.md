@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: website under construction
+description: work in progress website
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: math
 ---
 
 Every project has a beautiful feature showcase page.
