@@ -1,15 +1,12 @@
 github_users:
-  - loreno-heer
+  - torvalds
+  - alshedivat
 
 github_repos:
   - alshedivat/al-folio
-  - sagemath/sage
-  - emacs-mirror/emacs
-  - leanprover/lean4
-  - radareorg/radare2 
+  - twbs/bootstrap
+  - jekyll/jekyll
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
   - jpswalsh/academicons
   - mathjax/MathJax
-  - nathanlesage/academics-on-mastodon
-  - emacs-tw/awesome-emacs
-  - sindresorhus/awesome
-  - vim/vim
