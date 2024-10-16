@@ -71,17 +71,17 @@ og_image: https://loreno-heer.github.io/assets/img/og_preview.png # The site-wid
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: loreno-heer # your GitHub user name
-gitlab_username: loreno-heer # your GitLab user name
-twitter_username: loreno_heer # your Twitter handle
-mastodon_username: mathstodon.xyz/@lorenoheer # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: loreno-heer-8023585 # your LinkedIn user name
+github_username: # your GitHub user name
+gitlab_username:  # your GitLab user name
+twitter_username:  # your Twitter handle
+mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+linkedin_username:  # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: YM0FXVcAAAAJ # your Google Scholar ID
 semanticscholar_id: 102658218 # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0001-7424-8912 # your ORCID ID
-medium_username: loreno.heer # your Medium username
+medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 osf_id: nvp4z # your OSF ID
@@ -89,11 +89,11 @@ research_gate_profile: Loreno_Heer # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
-keybase_username: lorenoheer # your keybase user name
+keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: # your DBLP profile url
-stackoverflow_id: 3787836 #your stackoverflow id
+stackoverflow_id: #your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: # your spotify id
