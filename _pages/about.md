@@ -6,7 +6,7 @@ subtitle: Postdoc, <a href='https://itp.phys.ethz.ch/'>ETH Zurich</a>. ITP, D-PH
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: false # crops the image to make it circular
   address: >
     <p>HIT K, D-PHYS</p>
