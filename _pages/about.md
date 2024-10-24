@@ -2,17 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoc, <a href='https://itp.phys.ethz.ch/'>ETH Zurich</a>. ITP, D-PHYS, loreno dot heer at math dot ch.
+subtitle: Researcher in mathematics and mathematical physics. loreno dot heer at math dot ch.
 
 profile:
   align: right
   image: 
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>HIT K, D-PHYS</p>
-    <p>ETH Zurich</p>
-    <p>Hönggerberg campus</p>
-    <p>8093 Zurich, Switzerland</p>
+
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
