@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher in mathematics and mathematical physics. loreno dot heer at math dot ch.
+subtitle: Dr. sc. nat. (PhD in Mathematics). Researcher in mathematics and mathematical physics. loreno dot heer at math dot ch.
 
 profile:
   align: right
